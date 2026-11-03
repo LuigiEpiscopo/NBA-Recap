@@ -97,6 +97,11 @@ select:focus, input:focus { border-color:var(--site-primary); }
 .player-preview img {position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
 .player-preview:after {content:'';position:absolute;inset:0;background:linear-gradient(0deg,#0008,transparent 65%);}
 .player-preview .preview-play {position:relative;z-index:1;background:#D9FF3F;color:#10130A;border-radius:50%;width:62px;height:62px;display:grid;place-items:center;font-size:23px;box-shadow:0 4px 24px #000a;padding-left:4px;}
+/* Raggruppamenti per pubblicazione e archivio */
+.day-heading {grid-column:1/-1;margin:12px 0 0;padding:8px 2px 2px;display:flex;align-items:center;justify-content:space-between;gap:10px;border-bottom:1px solid #30333A;color:#F7F8F8;font-size:15px;font-weight:800;}
+.day-heading small {font-size:10px;color:#A8ACB5;font-weight:600;}
+.favorite-star {color:var(--site-primary);font-size:11px;font-weight:800;}
+.filter-controls .date-filter {width:100%;}
 </style>
 </head>
 <body>
@@ -108,13 +113,13 @@ select:focus, input:focus { border-color:var(--site-primary); }
   <main>
     <section id="home" class="view active">
       <div class="hero"><div class="eyebrow">Il basket, senza perdere tempo</div><h1>La notte NBA.<br><span style="color:var(--site-primary)">In pochi minuti.</span></h1><p>I recap delle partite, raccolti in un unico posto.</p></div>
-      <div class="favorite-control"><div><label for="favorite-team">★ La tua squadra preferita</label><p>Il suo recap avrà la priorità in evidenza.</p></div><select id="favorite-team" aria-label="Scegli la squadra preferita"><option value="none">Nessuna preferita</option></select></div>
+      <div class="favorite-control"><div><label for="favorite-team">★ La tua squadra preferita</label><p>I suoi highlights appariranno per primi in ogni giornata.</p></div><select id="favorite-team" aria-label="Scegli la squadra preferita"><option value="none">Nessuna preferita</option></select></div>
       <div class="section-head"><h2>Il recap della notte</h2></div>
       <article class="feature-card" id="featured-game" data-team="all" data-title="NBA Nightly Recap" onclick="openVideo('nightly')">
         <div class="thumb" style="background:linear-gradient(130deg,#263C52,#15141D 58%,#687C2B)"><div class="art">🌙</div><div class="matchup"><small>NBA · NIGHTLY RECAP</small><strong>La notte<br>NBA</strong></div><div class="play">▶</div></div>
         <div class="feature-info"><div class="meta"><span id="nightly-date">Ultimo video verificato</span><span class="dot"></span><span>Stagione 2026/27</span></div><div class="feature-title" id="nightly-title">NBA Nightly Recap</div><div class="tags"><span class="tag">NBA OFFICIAL</span><span class="tag">COLLEGAMENTO VIDEO</span></div></div>
       </article>
-      <div class="section-head"><h2>Recap delle squadre</h2><button class="text-btn" onclick="showView('teams')">Tutte le squadre ›</button></div>
+      <div class="section-head"><h2>Highlights per giornata</h2><button class="text-btn" onclick="showView('teams')">Tutte le squadre ›</button></div>
       <div class="list" id="recent-list">
         <button class="game-row" onclick="openVideo('games')"><div class="mini-thumb" style="--a:#174936;--b:#15201C">🏀</div><div><h3>Warriors 124 – Clippers 112</h3><p>Game recap · 1 novembre 2026<br><span style="color:#D9FF3F">● Raccolta ufficiale NBA</span></p></div><span class="row-play">↗</span></button>
         <button class="game-row" onclick="openVideo('games')"><div class="mini-thumb" style="--a:#573A79;--b:#B47B25">🏀</div><div><h3>Lakers 131 – Raptors 125</h3><p>Game recap · 1 novembre 2026<br><span style="color:#D9FF3F">● Raccolta ufficiale NBA</span></p></div><span class="row-play">↗</span></button>
@@ -134,10 +139,10 @@ select:focus, input:focus { border-color:var(--site-primary); }
     </section>
     <section id="library" class="view">
       <div class="hero"><div class="eyebrow">Archivio stagione</div><h1>Trova il tuo<br><span style="color:var(--site-primary)">recap.</span></h1><p>Cerca una squadra o una partita nel catalogo NBA.</p></div>
-      <div class="filter-panel"><div class="filter-top"><h2>Filtra i video</h2><span class="meta">2026/27</span></div><div class="filter-controls"><input id="search" type="search" placeholder="Cerca squadra o partita…" aria-label="Cerca squadra o partita"><select id="filter-team" aria-label="Filtra per squadra"><option value="all">Tutte le squadre</option></select></div></div>
+      <div class="filter-panel"><div class="filter-top"><h2>Filtra i video</h2><span class="meta">2026/27</span></div><div class="filter-controls"><input id="search" type="search" placeholder="Cerca squadra o partita…" aria-label="Cerca squadra o partita"><select id="filter-team" aria-label="Filtra per squadra"><option value="all">Tutte le squadre</option></select><select id="filter-date" class="date-filter" aria-label="Filtra per data di pubblicazione"><option value="all">Tutte le date</option></select></div></div>
       <div class="section-head"><h2 id="library-count">Recap disponibili</h2><span class="meta">Più recenti</span></div>
       <div class="list" id="library-list"></div><div class="empty" id="empty">Nessun recap demo corrisponde alla ricerca. Prova un altro nome.</div>
-      <p class="note">I video sono aperti dal collegamento ufficiale della fonte. L'incorporamento diretto verrà attivato solo dopo aver verificato che la piattaforma lo consenta.</p>
+      <p class="note">I video vengono riprodotti nel lettore integrato quando YouTube lo consente. Le date indicate sono quelle di pubblicazione, non necessariamente quelle delle partite.</p>
     </section>
   </main>
   <nav class="bottom-nav" aria-label="Navigazione principale"><button class="nav-item active" data-view="home" onclick="showView('home')"><span class="ico">⌂</span>Home</button><button class="nav-item" data-view="teams" onclick="showView('teams')"><span class="ico">◉</span>Squadre</button><button class="nav-item" data-view="library" onclick="showView('library')"><span class="ico">▤</span>Archivio</button></nav>
@@ -166,7 +171,39 @@ let games = demoGames.map(g=>({...g,demo:true,contentType:'game_recap',teams:[g.
 let catalogItems = [];
 let catalogIsLive = false;
 let favoriteTeam = localStorage.getItem('nba-recap-favorite') || 'none';
-function updateFeatured(){const list=document.getElementById('recent-list');const ordered=[...games].sort((a,b)=>{const af=favoriteTeam!=='none'&&(a.teams||[a.team,a.opponent]).includes(favoriteTeam);const bf=favoriteTeam!=='none'&&(b.teams||[b.team,b.opponent]).includes(favoriteTeam);return Number(bf)-Number(af)});list.innerHTML=ordered.map(gameRow).join('');}
+function dateKey(g){
+  if(!g.publishedAt)return 'unknown';
+  const d=new Date(g.publishedAt);
+  if(Number.isNaN(d.getTime()))return 'unknown';
+  // Giorno locale italiano, indipendente dal fuso del telefono.
+  const parts=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Rome',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(d);
+  const get=k=>parts.find(x=>x.type===k)?.value||'';
+  return `${get('year')}-${get('month')}-${get('day')}`;
+}
+function displayDay(key){
+  if(key==='unknown')return 'Data non disponibile';
+  return new Date(key+'T12:00:00Z').toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'});
+}
+function isFavorite(g){return favoriteTeam!=='none'&&(g.teams||[]).includes(favoriteTeam);}
+function sortedVideos(list){return [...list].sort((a,b)=>{
+  const ad=dateKey(a),bd=dateKey(b);
+  if(ad!==bd)return bd.localeCompare(ad);
+  const fav=Number(isFavorite(b))-Number(isFavorite(a));
+  if(fav)return fav;
+  return (b.publishedAt||'').localeCompare(a.publishedAt||'');
+});}
+function groupedRows(list){
+  let previous='';
+  return sortedVideos(list).map(g=>{
+    const day=dateKey(g);
+    const header=day!==previous?`<div class="day-heading"><span>${esc(displayDay(day))}</span><small>Pubblicazione</small></div>`:'';
+    previous=day;
+    return header+gameRow(g);
+  }).join('');
+}
+function updateFeatured(){
+  document.getElementById('recent-list').innerHTML=groupedRows(games);
+}
 function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function youtubeThumb(id,quality='hqdefault'){
   return 'https://i.ytimg.com/vi/'+encodeURIComponent(id)+'/'+quality+'.jpg';
@@ -181,7 +218,7 @@ function setNightlyThumbnail(id){
   if(!img){img=document.createElement('img');img.className='video-cover';img.alt='Anteprima Nightly Recap';thumb.prepend(img);}
   img.src=youtubeThumb(id,'hqdefault');
 }
-function gameRow(g){if(g.videoUrl){const date=g.publishedAt?new Date(g.publishedAt).toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric'}):'Data non disponibile';const names=(g.teams||[]).join(' · ');return `<button class="game-row" data-title="${esc(g.title)}" onclick="openCatalogVideo('${esc(g.videoId)}')"><div class="mini-thumb" style="--a:#29354D;--b:#11151C">${thumbnailMarkup(g.videoId)}</div><div><h3>${esc(g.title)}</h3><p>${esc(date)}${names?'<br>'+esc(names):''}<br><span style="color:#D9FF3F">● YouTube NBA</span></p></div><span class="row-play">↗</span></button>`;}return `<button class="game-row" data-team="${esc(g.team)}" data-title="${esc(g.title)}" onclick="openVideo('${esc(g.title)}')"><div class="mini-thumb" style="--a:${g.a};--b:${g.b}">${g.icon}</div><div><h3>${esc(g.short)}</h3><p>${esc(g.date)}<br><span style="color:#D9FF3F">● ${g.demo?'Dati iniziali':'Catalogo NBA'}</span></p></div><span class="row-play">▶</span></button>`;}
+function gameRow(g){if(g.videoUrl){const date=g.publishedAt?new Date(g.publishedAt).toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric'}):'Data non disponibile';const names=(g.teams||[]).join(' · ');return `<button class="game-row" data-title="${esc(g.title)}" onclick="openCatalogVideo('${esc(g.videoId)}')"><div class="mini-thumb" style="--a:#29354D;--b:#11151C">${thumbnailMarkup(g.videoId)}</div><div><h3>${esc(g.title)}</h3><p>${esc(date)}${names?'<br>'+esc(names):''}<br><span style="color:#D9FF3F">● YouTube NBA</span>${isFavorite(g)?' <span class="favorite-star">★ Preferita</span>':''}</p></div><span class="row-play">↗</span></button>`;}return `<button class="game-row" data-team="${esc(g.team)}" data-title="${esc(g.title)}" onclick="openVideo('${esc(g.title)}')"><div class="mini-thumb" style="--a:${g.a};--b:${g.b}">${g.icon}</div><div><h3>${esc(g.short)}</h3><p>${esc(g.date)}<br><span style="color:#D9FF3F">● ${g.demo?'Dati iniziali':'Catalogo NBA'}</span></p></div><span class="row-play">▶</span></button>`;}
 function showView(id){document.querySelectorAll('.view').forEach(v=>v.classList.toggle('active',v.id===id));document.querySelectorAll('.nav-item').forEach(b=>b.classList.toggle('active',b.dataset.view===id));window.scrollTo({top:0,behavior:'smooth'});}
 function showEmbeddedVideo(videoId,title){
   if(!/^[A-Za-z0-9_-]{11}$/.test(videoId))return;
@@ -236,13 +273,36 @@ function showEmbeddedVideo(videoId,title){
 function idFromYoutubeUrl(url){try{const u=new URL(url);if(u.hostname==='youtu.be')return u.pathname.slice(1);if(['www.youtube.com','youtube.com','m.youtube.com'].includes(u.hostname))return u.searchParams.get('v')||u.pathname.split('/embed/')[1];}catch(e){}return null;}
 function openVideo(key){const item=realCatalog.find(x=>x.id===key);const chosen=item||(key==='nightly'?realCatalog[0]:realCatalog[1]);const id=idFromYoutubeUrl(chosen?.url);if(id)showEmbeddedVideo(id,chosen.title);}
 function openCatalogVideo(id){const item=catalogItems.find(x=>x.videoId===id);if(item)showEmbeddedVideo(id,item.title);}
-function renderTeam(key){const t=teams.find(x=>x[0]===key)||teams[0];document.getElementById('team-name').textContent=t[1];document.getElementById('team-results-title').textContent=t[1];document.getElementById('team-emoji').textContent=t[2];const found=games.filter(g=>(g.teams||[g.team,g.opponent]).includes(key));document.getElementById('team-list').innerHTML=found.length?found.map(gameRow).join(''):'<p class="note">Nessun recap presente nel catalogo per questa squadra.</p>';document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('active',c.dataset.team===key));}
-function renderLibrary(){const q=document.getElementById('search').value.toLowerCase().trim();const team=document.getElementById('filter-team').value;const found=games.filter(g=>(team==='all'||(g.teams||[g.team,g.opponent]).includes(team))&&(!q||g.title.toLowerCase().includes(q)||(g.short||'').toLowerCase().includes(q)||(g.teams||[]).some(t=>t.toLowerCase().includes(q))));document.getElementById('library-list').innerHTML=found.map(gameRow).join('');document.getElementById('library-count').textContent=`${found.length} ${catalogIsLive?'video nel catalogo':'risultati iniziali'}`;document.getElementById('empty').style.display=found.length?'none':'block';}
+function renderTeam(key){
+  const t=teams.find(x=>x[0]===key)||teams[0];
+  document.getElementById('team-name').textContent=t[1];
+  document.getElementById('team-results-title').textContent=t[1];
+  document.getElementById('team-emoji').textContent=t[2];
+  const found=games.filter(g=>(g.teams||[]).includes(key));
+  document.getElementById('team-list').innerHTML=found.length?groupedRows(found):'<p class="note">Nessun recap presente nel catalogo per questa squadra.</p>';
+  document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('active',c.dataset.team===key));
+}
+function refreshDateOptions(){
+  const select=document.getElementById('filter-date');
+  const old=select.value;
+  const days=[...new Set(games.map(dateKey))].filter(d=>d!=='unknown').sort().reverse();
+  select.innerHTML='<option value="all">Tutte le date</option>'+days.map(d=>`<option value="${esc(d)}">${esc(displayDay(d))}</option>`).join('');
+  select.value=days.includes(old)?old:'all';
+}
+function renderLibrary(){
+  const q=document.getElementById('search').value.toLowerCase().trim();
+  const team=document.getElementById('filter-team').value;
+  const date=document.getElementById('filter-date').value;
+  const found=games.filter(g=>(team==='all'||(g.teams||[]).includes(team))&&(date==='all'||dateKey(g)===date)&&(!q||g.title.toLowerCase().includes(q)||(g.teams||[]).some(t=>t.toLowerCase().includes(q))));
+  document.getElementById('library-list').innerHTML=groupedRows(found);
+  document.getElementById('library-count').textContent=`${found.length} ${catalogIsLive?'video nel catalogo':'risultati iniziali'}`;
+  document.getElementById('empty').style.display=found.length?'none':'block';
+}
 function updateCatalogStatus(message){document.getElementById('feed-status').textContent=message;}
-async function loadPublishedCatalog(){for(const url of ['./catalog.json','./public/catalog.json']){try{const response=await fetch(url,{cache:'no-store'});if(!response.ok)continue;const data=await response.json();if(!Array.isArray(data.items))continue;catalogItems=data.items.filter(x=>x&&x.videoId&&x.videoUrl);if(!catalogItems.length)continue;catalogIsLive=true;const dynamic=catalogItems.filter(x=>['nightly_recap','game_recap','highlights','recap_unclassified'].includes(x.contentType)).map(x=>({title:x.title,short:x.title,date:x.publishedAt?new Date(x.publishedAt).toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric'}):'Data non disponibile',teams:Array.isArray(x.teams)?x.teams:[],videoId:x.videoId,videoUrl:x.videoUrl,contentType:x.contentType,icon:x.contentType==='nightly_recap'?'🌙':'🏀',a:'#29354D',b:'#11151C',demo:false}));if(dynamic.length){games=dynamic;const nightly=catalogItems.find(x=>x.contentType==='nightly_recap');if(nightly){realCatalog[0]={...realCatalog[0],title:nightly.title,url:nightly.videoUrl,verifiedUrl:true};document.getElementById('nightly-title').textContent=nightly.title;document.getElementById('nightly-date').textContent=nightly.publishedAt?new Date(nightly.publishedAt).toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric'}):'Ultimo Nightly Recap';document.getElementById('featured-game').onclick=()=>openCatalogVideo(nightly.videoId);setNightlyThumbnail(nightly.videoId);}updateFeatured();renderTeam(document.querySelector('.chip.active')?.dataset.team||'Lakers');renderLibrary();}const stamp=data.generatedAt?new Date(data.generatedAt).toLocaleString('it-IT'):'data non disponibile';updateCatalogStatus(`Catalogo automatico collegato · ${catalogItems.length} video · aggiornato: ${stamp}.`);return;}catch(error){}}updateCatalogStatus('Catalogo automatico non ancora collegato: visualizzati i contenuti iniziali.');}
+async function loadPublishedCatalog(){for(const url of ['./catalog.json','./public/catalog.json']){try{const response=await fetch(url,{cache:'no-store'});if(!response.ok)continue;const data=await response.json();if(!Array.isArray(data.items))continue;catalogItems=data.items.filter(x=>x&&x.videoId&&x.videoUrl);if(!catalogItems.length)continue;catalogIsLive=true;const dynamic=catalogItems.filter(x=>['game_recap','highlights','recap_unclassified'].includes(x.contentType)).map(x=>({title:x.title,short:x.title,publishedAt:x.publishedAt||null,date:x.publishedAt?new Date(x.publishedAt).toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric'}):'Data non disponibile',teams:Array.isArray(x.teams)?x.teams:[],videoId:x.videoId,videoUrl:x.videoUrl,contentType:x.contentType,icon:x.contentType==='nightly_recap'?'🌙':'🏀',a:'#29354D',b:'#11151C',demo:false}));if(dynamic.length){games=dynamic;const nightly=catalogItems.find(x=>x.contentType==='nightly_recap');if(nightly){realCatalog[0]={...realCatalog[0],title:nightly.title,url:nightly.videoUrl,verifiedUrl:true};document.getElementById('nightly-title').textContent=nightly.title;document.getElementById('nightly-date').textContent=nightly.publishedAt?new Date(nightly.publishedAt).toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric'}):'Ultimo Nightly Recap';document.getElementById('featured-game').onclick=()=>openCatalogVideo(nightly.videoId);setNightlyThumbnail(nightly.videoId);}refreshDateOptions();updateFeatured();renderTeam(document.querySelector('.chip.active')?.dataset.team||'Lakers');renderLibrary();}const stamp=data.generatedAt?new Date(data.generatedAt).toLocaleString('it-IT'):'data non disponibile';updateCatalogStatus(`Catalogo automatico collegato · ${catalogItems.length} video · aggiornato: ${stamp}.`);return;}catch(error){}}updateCatalogStatus('Catalogo automatico non ancora collegato: visualizzati i contenuti iniziali.');}
 const chips=document.getElementById('team-chips');teams.forEach(t=>{const b=document.createElement('button');b.className='chip';b.dataset.team=t[0];b.textContent=t[2]+' '+t[0];b.onclick=()=>renderTeam(t[0]);chips.appendChild(b);const o=document.createElement('option');o.value=t[0];o.textContent=t[1];document.getElementById('filter-team').appendChild(o);const f=document.createElement('option');f.value=t[0];f.textContent=t[1];document.getElementById('favorite-team').appendChild(f)});
-document.getElementById('favorite-team').value=teams.some(t=>t[0]===favoriteTeam)?favoriteTeam:'none';document.getElementById('favorite-team').addEventListener('change',e=>{favoriteTeam=e.target.value;localStorage.setItem('nba-recap-favorite',favoriteTeam);updateFeatured()});
-document.getElementById('search').addEventListener('input',renderLibrary);document.getElementById('filter-team').addEventListener('change',renderLibrary);updateFeatured();renderTeam('Lakers');renderLibrary();loadPublishedCatalog();
+document.getElementById('favorite-team').value=teams.some(t=>t[0]===favoriteTeam)?favoriteTeam:'none';document.getElementById('favorite-team').addEventListener('change',e=>{favoriteTeam=e.target.value;localStorage.setItem('nba-recap-favorite',favoriteTeam);updateFeatured();renderLibrary();renderTeam(document.querySelector('.chip.active')?.dataset.team||'Lakers')});
+document.getElementById('search').addEventListener('input',renderLibrary);document.getElementById('filter-team').addEventListener('change',renderLibrary);document.getElementById('filter-date').addEventListener('change',renderLibrary);refreshDateOptions();updateFeatured();renderTeam('Lakers');renderLibrary();loadPublishedCatalog();
 </script>
 </body>
 </html>
