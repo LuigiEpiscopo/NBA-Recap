@@ -159,8 +159,57 @@ function updateFeatured(){const list=document.getElementById('recent-list');cons
 function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function gameRow(g){if(g.videoUrl){const date=g.publishedAt?new Date(g.publishedAt).toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric'}):'Data non disponibile';const names=(g.teams||[]).join(' · ');return `<button class="game-row" data-title="${esc(g.title)}" onclick="openCatalogVideo('${esc(g.videoId)}')"><div class="mini-thumb" style="--a:#29354D;--b:#11151C">${g.contentType==='nightly_recap'?'🌙':'🏀'}</div><div><h3>${esc(g.title)}</h3><p>${esc(date)}${names?'<br>'+esc(names):''}<br><span style="color:#D9FF3F">● YouTube NBA</span></p></div><span class="row-play">↗</span></button>`;}return `<button class="game-row" data-team="${esc(g.team)}" data-title="${esc(g.title)}" onclick="openVideo('${esc(g.title)}')"><div class="mini-thumb" style="--a:${g.a};--b:${g.b}">${g.icon}</div><div><h3>${esc(g.short)}</h3><p>${esc(g.date)}<br><span style="color:#D9FF3F">● ${g.demo?'Dati iniziali':'Catalogo NBA'}</span></p></div><span class="row-play">▶</span></button>`;}
 function showView(id){document.querySelectorAll('.view').forEach(v=>v.classList.toggle('active',v.id===id));document.querySelectorAll('.nav-item').forEach(b=>b.classList.toggle('active',b.dataset.view===id));window.scrollTo({top:0,behavior:'smooth'});}
-function openVideo(key){const item=realCatalog.find(x=>x.id===key);if(item&&item.verifiedUrl){window.open(item.url,'_blank','noopener');return;}if(key==='nightly'){window.open(realCatalog[0].url,'_blank','noopener');return;}if(key==='games'||games.some(x=>x.title===key)){window.open(realCatalog[1].url,'_blank','noopener');}}
-function openCatalogVideo(id){const item=catalogItems.find(x=>x.videoId===id);if(item?.videoUrl)window.open(item.videoUrl,'_blank','noopener');}
+function showEmbeddedVideo(videoId,title){
+  if(!/^[A-Za-z0-9_-]{11}$/.test(videoId))return;
+  document.getElementById('nba-video-overlay')?.remove();
+  const overlay=document.createElement('div');
+  overlay.id='nba-video-overlay';
+  overlay.setAttribute('role','dialog');
+  overlay.setAttribute('aria-modal','true');
+  overlay.setAttribute('aria-label','Riproduzione video NBA');
+  overlay.style.cssText='position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.90);display:flex;align-items:center;justify-content:center;padding:12px';
+  const panel=document.createElement('div');
+  panel.style.cssText='width:min(100%,960px);background:#17191D;color:white;border:1px solid #373A42;border-radius:16px;padding:14px;box-sizing:border-box';
+  const header=document.createElement('div');
+  header.style.cssText='display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px';
+  const label=document.createElement('strong');
+  label.textContent=title||'Video NBA';
+  label.style.cssText='font-size:14px;line-height:1.35';
+  const close=document.createElement('button');
+  close.textContent='✕ Chiudi';
+  close.setAttribute('aria-label','Chiudi video');
+  close.style.cssText='background:#D9FF3F;color:#10130A;border:0;border-radius:9px;padding:10px 12px;font-weight:800;flex-shrink:0';
+  const closePlayer=()=>{overlay.remove();document.removeEventListener('keydown',onKey)};
+  const onKey=e=>{if(e.key==='Escape')closePlayer()};
+  close.addEventListener('click',closePlayer);
+  document.addEventListener('keydown',onKey);
+  header.append(label,close);
+  const frameBox=document.createElement('div');
+  frameBox.style.cssText='width:100%;aspect-ratio:16/9;background:#000;border-radius:10px;overflow:hidden';
+  const frame=document.createElement('iframe');
+  frame.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(videoId)+'?playsinline=1&rel=0';
+  frame.title=title||'Video NBA';
+  frame.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+  frame.allowFullscreen=true;
+  frame.referrerPolicy='strict-origin-when-cross-origin';
+  frame.style.cssText='display:block;width:100%;height:100%;border:0';
+  frameBox.append(frame);
+  const note=document.createElement('p');
+  note.style.cssText='font-size:12px;color:#A5A9B2;line-height:1.5;margin:12px 0 0';
+  note.append('Se il proprietario del video impedisce la riproduzione incorporata, ');
+  const fallback=document.createElement('a');
+  fallback.href='https://www.youtube.com/watch?v='+encodeURIComponent(videoId);
+  fallback.target='_blank';fallback.rel='noopener noreferrer';
+  fallback.textContent='aprilo su YouTube';fallback.style.color='#D9FF3F';
+  note.append(fallback,'.');
+  panel.append(header,frameBox,note);overlay.append(panel);
+  overlay.addEventListener('click',e=>{if(e.target===overlay)closePlayer()});
+  document.body.append(overlay);
+  close.focus();
+}
+function idFromYoutubeUrl(url){try{const u=new URL(url);if(u.hostname==='youtu.be')return u.pathname.slice(1);if(['www.youtube.com','youtube.com','m.youtube.com'].includes(u.hostname))return u.searchParams.get('v')||u.pathname.split('/embed/')[1];}catch(e){}return null;}
+function openVideo(key){const item=realCatalog.find(x=>x.id===key);const chosen=item||(key==='nightly'?realCatalog[0]:realCatalog[1]);const id=idFromYoutubeUrl(chosen?.url);if(id)showEmbeddedVideo(id,chosen.title);}
+function openCatalogVideo(id){const item=catalogItems.find(x=>x.videoId===id);if(item)showEmbeddedVideo(id,item.title);}
 function renderTeam(key){const t=teams.find(x=>x[0]===key)||teams[0];document.getElementById('team-name').textContent=t[1];document.getElementById('team-results-title').textContent=t[1];document.getElementById('team-emoji').textContent=t[2];const found=games.filter(g=>(g.teams||[g.team,g.opponent]).includes(key));document.getElementById('team-list').innerHTML=found.length?found.map(gameRow).join(''):'<p class="note">Nessun recap presente nel catalogo per questa squadra.</p>';document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('active',c.dataset.team===key));}
 function renderLibrary(){const q=document.getElementById('search').value.toLowerCase().trim();const team=document.getElementById('filter-team').value;const found=games.filter(g=>(team==='all'||(g.teams||[g.team,g.opponent]).includes(team))&&(!q||g.title.toLowerCase().includes(q)||(g.short||'').toLowerCase().includes(q)||(g.teams||[]).some(t=>t.toLowerCase().includes(q))));document.getElementById('library-list').innerHTML=found.map(gameRow).join('');document.getElementById('library-count').textContent=`${found.length} ${catalogIsLive?'video nel catalogo':'risultati iniziali'}`;document.getElementById('empty').style.display=found.length?'none':'block';}
 function updateCatalogStatus(message){document.getElementById('feed-status').textContent=message;}
