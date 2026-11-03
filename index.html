@@ -210,28 +210,16 @@ function showEmbeddedVideo(videoId,title){
   header.append(label,close);
   const frameBox=document.createElement('div');
   frameBox.style.cssText='width:100%;aspect-ratio:16/9;background:#000;border-radius:10px;overflow:hidden';
-  // Prima mostriamo la miniatura: il player viene caricato solo al tocco.
-  const preview=document.createElement('button');
-  preview.type='button';
-  preview.className='player-preview';
-  preview.setAttribute('aria-label','Riproduci '+(title||'video NBA'));
-  const cover=document.createElement('img');
-  cover.src=youtubeThumb(videoId,'hqdefault');
-  cover.alt='Anteprima video';
-  const play=document.createElement('span');
-  play.className='preview-play';play.textContent='▶';
-  preview.append(cover,play);
-  preview.addEventListener('click',()=>{
-    const frame=document.createElement('iframe');
-    frame.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(videoId)+'?playsinline=1&rel=0&autoplay=1';
-    frame.title=title||'Video NBA';
-    frame.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
-    frame.allowFullscreen=true;
-    frame.referrerPolicy='strict-origin-when-cross-origin';
-    frame.style.cssText='display:block;width:100%;height:100%;border:0';
-    frameBox.replaceChildren(frame);
-  },{once:true});
-  frameBox.append(preview);
+  // Un solo tocco sulla scheda: monta subito il player ufficiale e richiede autoplay.
+  // Safari/iOS o YouTube possono comunque richiedere un gesto aggiuntivo per l'audio.
+  const frame=document.createElement('iframe');
+  frame.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(videoId)+'?playsinline=1&rel=0&autoplay=1';
+  frame.title=title||'Video NBA';
+  frame.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+  frame.allowFullscreen=true;
+  frame.referrerPolicy='strict-origin-when-cross-origin';
+  frame.style.cssText='display:block;width:100%;height:100%;border:0';
+  frameBox.append(frame);
   const note=document.createElement('p');
   note.style.cssText='font-size:12px;color:#A5A9B2;line-height:1.5;margin:12px 0 0';
   note.append('Se il proprietario del video impedisce la riproduzione incorporata, ');
