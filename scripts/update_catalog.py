@@ -2,8 +2,9 @@
 """Collect official NBA YouTube uploads, preserving previously seen items."""
 import datetime as dt
 import json
-import os
 import re
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -30,41 +31,77 @@ TEAMS = {
     "Jazz": ["jazz", "utah"], "Wizards": ["wizards", "washington"],
 }
 
+
 def matches(title, words):
     return any(re.search(r"(?<!\w)" + re.escape(word) + r"(?!\w)", title, re.I) for word in words)
 
+
 def classify(title):
-    t=title.lower()
-    if "nightly recap" in t: return "nightly_recap"
+    t = title.lower()
+    if "nightly recap" in t:
+        return "nightly_recap"
     if "full game highlights" in t or "game highlights" in t or "full game recap" in t:
         return "game_recap"
-    if "highlights" in t or "recap" in t: return "highlights"
+    if "highlights" in t or "recap" in t:
+        return "highlights"
     return "other"
 
-def main():
-    req=urllib.request.Request(FEED,headers={"User-Agent":"NBA-Recap/1.0 (public RSS reader)"})
-    with urllib.request.urlopen(req,timeout=25) as response:
-        body=response.read()
-    entries=ET.fromstring(body).findall(f"{ATOM}entry")
-    if not entries: raise RuntimeError("Il feed NBA non contiene video: catalogo precedente conservato")
-    old={}
-    if OUT.exists():
-        data=json.loads(OUT.read_text(encoding="utf-8"))
-        old={v["videoId"]:v for v in data.get("items",[]) if v.get("videoId")}
-    added=0
-    for entry in entries:
-        video_id=entry.findtext(f"{YT}videoId")
-        title=entry.findtext(f"{ATOM}title") or ""
-        published=entry.findtext(f"{ATOM}published")
-        if not video_id or not published: continue
-        if video_id not in old: added+=1
-        old[video_id]={"videoId":video_id,"title":title,"publishedAt":published,
-            "videoUrl":f"https://www.youtube.com/watch?v={video_id}",
-            "source":"NBA (YouTube ufficiale)","contentType":classify(title),
-            "teams":[name for name,aliases in TEAMS.items() if matches(title,aliases)]}
-    items=sorted(old.values(),key=lambda v:v.get("publishedAt", ""),reverse=True)[:2500]
-    payload={"generatedAt":dt.datetime.now(dt.timezone.utc).isoformat(),"items":items}
-    OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print(f"Feed: {len(entries)} video; nuovi: {added}; totale: {len(items)}")
 
-if __name__=="__main__":main()
+def fetch_entries():
+    for attempt in range(1, 4):
+        try:
+            req = urllib.request.Request(FEED, headers={
+                "User-Agent": "Mozilla/5.0 (compatible; NBARecap/1.0; RSS reader)",
+                "Accept": "application/atom+xml, application/xml, text/xml, */*",
+            })
+            with urllib.request.urlopen(req, timeout=25) as response:
+                body = response.read()
+            entries = ET.fromstring(body).findall(f"{ATOM}entry")
+            if not entries:
+                raise ValueError("Feed NBA vuoto: nessun video ricevuto")
+            return entries
+        except (urllib.error.URLError, TimeoutError, OSError, ET.ParseError, ValueError) as exc:
+            print(f"ATTENZIONE: tentativo {attempt}/3 fallito: {exc}", flush=True)
+            if attempt < 3:
+                time.sleep(5 * attempt)
+    return None
+
+
+def main():
+    entries = fetch_entries()
+    if entries is None:
+        print("ATTENZIONE: YouTube non disponibile. Catalogo precedente conservato; riprovare più tardi.")
+        return
+
+    old = {}
+    if OUT.exists():
+        data = json.loads(OUT.read_text(encoding="utf-8"))
+        old = {v["videoId"]: v for v in data.get("items", []) if v.get("videoId")}
+
+    added = 0
+    for entry in entries:
+        video_id = entry.findtext(f"{YT}videoId")
+        title = entry.findtext(f"{ATOM}title") or ""
+        published = entry.findtext(f"{ATOM}published")
+        if not video_id or not published:
+            continue
+        if video_id not in old:
+            added += 1
+        old[video_id] = {
+            "videoId": video_id,
+            "title": title,
+            "publishedAt": published,
+            "videoUrl": f"https://www.youtube.com/watch?v={video_id}",
+            "source": "NBA (YouTube ufficiale)",
+            "contentType": classify(title),
+            "teams": [name for name, aliases in TEAMS.items() if matches(title, aliases)],
+        }
+
+    items = sorted(old.values(), key=lambda v: v.get("publishedAt", ""), reverse=True)[:2500]
+    payload = {"generatedAt": dt.datetime.now(dt.timezone.utc).isoformat(), "items": items}
+    OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"OK: feed {len(entries)} video; nuovi {added}; totale {len(items)}")
+
+
+if __name__ == "__main__":
+    main()
