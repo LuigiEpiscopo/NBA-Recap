@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:09:12.597582+00:00",
+  "generatedAt": "2026-11-05T13:26:59.155204+00:00",
   "items": [
     {
       "videoId": "qz1LM3gsHNw",
@@ -168,6 +168,15 @@
         "Hawks",
         "Wizards"
       ]
+    },
+    {
+      "videoId": "1aNrzlqRhaY",
+      "title": "NBA's Nightly Recap | November 4, 2026",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=1aNrzlqRhaY",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": []
     },
     {
       "videoId": "qbVrl6prrS0",
