@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:16:31.331742+00:00",
+  "generatedAt": "2026-11-06T13:10:56.704636+00:00",
   "items": [
     {
       "videoId": "ufkeiEsJrx0",
@@ -24,6 +24,15 @@
         "Magic",
         "Suns"
       ]
+    },
+    {
+      "videoId": "SZMSvEkxtMs",
+      "title": "NBA's Nightly Recap | November 5, 2026",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=SZMSvEkxtMs",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": []
     },
     {
       "videoId": "qz1LM3gsHNw",
