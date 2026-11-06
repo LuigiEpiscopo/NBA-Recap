@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-05T13:26:59.155204+00:00",
+  "generatedAt": "2026-11-06T07:16:31.331742+00:00",
   "items": [
+    {
+      "videoId": "ufkeiEsJrx0",
+      "title": "HEAT at WARRIORS | FULL GAME HIGHLIGHTS | November 5, 2026",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ufkeiEsJrx0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Heat"
+      ]
+    },
+    {
+      "videoId": "jOnSyL073rY",
+      "title": "MAGIC at SUNS | FULL GAME HIGHLIGHTS | November 5, 2026",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=jOnSyL073rY",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Magic",
+        "Suns"
+      ]
+    },
     {
       "videoId": "qz1LM3gsHNw",
       "title": "HEAT at CLIPPERS | FULL GAME HIGHLIGHTS | November 4, 2026",
