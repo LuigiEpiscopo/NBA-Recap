@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:53:35.781982+00:00",
+  "generatedAt": "2026-11-07T22:32:31.056523+00:00",
   "items": [
     {
       "videoId": "Tl63S0C6XhI",
@@ -11,7 +11,8 @@
       "teams": [
         "Lakers",
         "Trail Blazers"
-      ]
+      ],
+      "gameDate": "2026-11-06"
     },
     {
       "videoId": "ArdOCfDXZdI",
@@ -23,7 +24,8 @@
       "teams": [
         "Timberwolves",
         "Pelicans"
-      ]
+      ],
+      "gameDate": "2026-11-06"
     },
     {
       "videoId": "urZbyAoCBNU",
@@ -35,7 +37,8 @@
       "teams": [
         "Grizzlies",
         "Thunder"
-      ]
+      ],
+      "gameDate": "2026-11-06"
     },
     {
       "videoId": "A_4SYcSbEbQ",
@@ -47,7 +50,8 @@
       "teams": [
         "Bucks",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-11-06"
     },
     {
       "videoId": "mQUHy5tn0Qc",
@@ -59,7 +63,8 @@
       "teams": [
         "Mavericks",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-11-06"
     },
     {
       "videoId": "t1c8FrDibW0",
@@ -71,7 +76,8 @@
       "teams": [
         "Cavaliers",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-11-06"
     },
     {
       "videoId": "V0JGW8-fCAw",
@@ -83,7 +89,8 @@
       "teams": [
         "Celtics",
         "Hornets"
-      ]
+      ],
+      "gameDate": "2026-11-06"
     },
     {
       "videoId": "1qP76MUsSrc",
@@ -95,7 +102,8 @@
       "teams": [
         "Hawks",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-11-06"
     },
     {
       "videoId": "xb5bhJQE6vw",
@@ -104,7 +112,73 @@
       "videoUrl": "https://www.youtube.com/watch?v=xb5bhJQE6vw",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-11-06"
+    },
+    {
+      "videoId": "4cXUpUfkQEQ",
+      "title": "Portland Trail Blazers vs Los Angeles Lakers - FULL GAME HIGHLIGHTS | November 6, 2026 NBA Season",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=4cXUpUfkQEQ",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-06"
+    },
+    {
+      "videoId": "d-1z-DeOQyc",
+      "title": "San Antonio Spurs vs Sacramento Kings - FULL GAME HIGHLIGHTS | November 6, 2026 NBA Season",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=d-1z-DeOQyc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Kings",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-06"
+    },
+    {
+      "videoId": "Khg2mAcZbRs",
+      "title": "Minnesota Timberwolves vs New Orleans Pelicans - FULL GAME HIGHLIGHTS | November 6, 2026 NBA Season",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Khg2mAcZbRs",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Pelicans"
+      ],
+      "gameDate": "2026-11-06"
+    },
+    {
+      "videoId": "v7biftHla2w",
+      "title": "Utah Jazz vs Dallas Mavericks - FULL GAME HIGHLIGHTS | November 6, 2026 NBA Season",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=v7biftHla2w",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-06"
+    },
+    {
+      "videoId": "aQ0F2DsoW1U",
+      "title": "Philadelphia 76ers vs Cleveland Cavaliers - FULL GAME HIGHLIGHTS | November 6, 2026 NBA Season",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=aQ0F2DsoW1U",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "76ers"
+      ],
+      "gameDate": "2026-11-06"
     },
     {
       "videoId": "ufkeiEsJrx0",
@@ -116,7 +190,8 @@
       "teams": [
         "Warriors",
         "Heat"
-      ]
+      ],
+      "gameDate": "2026-11-05"
     },
     {
       "videoId": "jOnSyL073rY",
@@ -128,7 +203,8 @@
       "teams": [
         "Magic",
         "Suns"
-      ]
+      ],
+      "gameDate": "2026-11-05"
     },
     {
       "videoId": "SZMSvEkxtMs",
@@ -137,7 +213,34 @@
       "videoUrl": "https://www.youtube.com/watch?v=SZMSvEkxtMs",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-11-05"
+    },
+    {
+      "videoId": "OE0vCLFMA4Q",
+      "title": "Miami Heat vs Golden State Warriors - FULL GAME HIGHLIGHTS | November 5, 2026 NBA Season",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=OE0vCLFMA4Q",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Heat"
+      ],
+      "gameDate": "2026-11-05"
+    },
+    {
+      "videoId": "tyvPjiktxoQ",
+      "title": "Orlando Magic vs Phoenix Suns - FULL GAME HIGHLIGHTS | November 5, 2026 NBA Season",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=tyvPjiktxoQ",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Magic",
+        "Suns"
+      ],
+      "gameDate": "2026-11-05"
     },
     {
       "videoId": "qz1LM3gsHNw",
@@ -149,7 +252,8 @@
       "teams": [
         "Clippers",
         "Heat"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "YtP-cXT3A70",
@@ -161,7 +265,8 @@
       "teams": [
         "Lakers",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "CGMqqffvAZw",
@@ -173,7 +278,8 @@
       "teams": [
         "Mavericks",
         "Spurs"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "ZBsa_Sh3VhQ",
@@ -185,7 +291,8 @@
       "teams": [
         "Suns",
         "Trail Blazers"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "VVRLCK0uPWk",
@@ -197,7 +304,8 @@
       "teams": [
         "Nuggets",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "6B2jlUvJ2rQ",
@@ -209,7 +317,8 @@
       "teams": [
         "Pelicans",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "5j4UGiGUEOg",
@@ -221,7 +330,8 @@
       "teams": [
         "Rockets",
         "Timberwolves"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "oi8rrI8Yuj4",
@@ -233,7 +343,8 @@
       "teams": [
         "Nets",
         "Hornets"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "3TyaJ3Bb6kk",
@@ -245,7 +356,8 @@
       "teams": [
         "Cavaliers",
         "Thunder"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "A6t5iL19Fyg",
@@ -257,7 +369,8 @@
       "teams": [
         "Pacers",
         "Grizzlies"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "ie77OeeANhg",
@@ -269,7 +382,8 @@
       "teams": [
         "Celtics",
         "Bucks"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "Wsl2gAb6Elk",
@@ -281,7 +395,8 @@
       "teams": [
         "Bulls",
         "Knicks"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "b3qMlYMESBY",
@@ -293,7 +408,8 @@
       "teams": [
         "Pistons",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "_dSuXlz6BiI",
@@ -305,7 +421,8 @@
       "teams": [
         "Hawks",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "1aNrzlqRhaY",
@@ -314,7 +431,73 @@
       "videoUrl": "https://www.youtube.com/watch?v=1aNrzlqRhaY",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-11-04"
+    },
+    {
+      "videoId": "RaMvc3cTIhU",
+      "title": "Los Angeles Lakers vs Sacramento Kings - FULL GAME HIGHLIGHTS | November 4, 2026 NBA Season",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=RaMvc3cTIhU",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Kings"
+      ],
+      "gameDate": "2026-11-04"
+    },
+    {
+      "videoId": "y1r0JqJNAZI",
+      "title": "Minnesota Timberwolves vs Houston Rockets - FULL GAME HIGHLIGHTS | November 4, 2026 NBA Season",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=y1r0JqJNAZI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-11-04"
+    },
+    {
+      "videoId": "jqKREo7kfD8",
+      "title": "Cleveland Cavaliers vs Oklahoma City Thunder - FULL GAME HIGHLIGHTS | November 4, 2026 NBA Season",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=jqKREo7kfD8",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-04"
+    },
+    {
+      "videoId": "Ub14diB7JJI",
+      "title": "Philadelphia 76ers vs Detroit Pistons - FULL GAME HIGHLIGHTS | November 4, 2026 NBA Season",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Ub14diB7JJI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "76ers"
+      ],
+      "gameDate": "2026-11-04"
+    },
+    {
+      "videoId": "tPp7QGQlRtc",
+      "title": "Milwaukee Bucks vs Boston Celtics - FULL GAME HIGHLIGHTS | November 4, 2026 NBA Season",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=tPp7QGQlRtc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Bucks"
+      ],
+      "gameDate": "2026-11-04"
     },
     {
       "videoId": "qbVrl6prrS0",
@@ -326,7 +509,8 @@
       "teams": [
         "Nuggets",
         "Trail Blazers"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "ZJgGy7TWM9U",
@@ -338,7 +522,8 @@
       "teams": [
         "Spurs",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "f48Ui1V6Hds",
@@ -350,7 +535,8 @@
       "teams": [
         "Grizzlies",
         "Pelicans"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "EfUHhjHnEeg",
@@ -362,7 +548,8 @@
       "teams": [
         "Celtics",
         "Rockets"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "r9RE2mM0tAA",
@@ -374,7 +561,8 @@
       "teams": [
         "Mavericks",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "YBeOdZIFQ2k",
@@ -386,7 +574,8 @@
       "teams": [
         "Bucks",
         "Timberwolves"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "UkB9kmykk4M",
@@ -398,7 +587,8 @@
       "teams": [
         "Nets",
         "Knicks"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "cBAnxEIed-I",
@@ -410,7 +600,8 @@
       "teams": [
         "Magic",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "bo8mA41AKHY",
@@ -422,7 +613,8 @@
       "teams": [
         "Hornets",
         "Pistons"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "PzhzlN0_oBk",
@@ -434,7 +626,8 @@
       "teams": [
         "Hawks",
         "Pacers"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "8M5rqtnkZYc",
@@ -446,7 +639,8 @@
       "teams": [
         "Bulls",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "1FHVaSqjYSI",
@@ -458,7 +652,73 @@
       "teams": [
         "Cavaliers",
         "Thunder"
-      ]
+      ],
+      "gameDate": "2026-11-02"
+    },
+    {
+      "videoId": "CRSGFoVYpH0",
+      "title": "Phoenix Suns vs Golden State Warriors - FULL GAME HIGHLIGHTS | November 2, 2026 NBA Season",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=CRSGFoVYpH0",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Suns"
+      ],
+      "gameDate": "2026-11-02"
+    },
+    {
+      "videoId": "u1inot0nq7g",
+      "title": "Miami Heat vs Los Angeles Lakers - FULL GAME HIGHLIGHTS | November 2, 2026 NBA Season",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=u1inot0nq7g",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Heat"
+      ],
+      "gameDate": "2026-11-02"
+    },
+    {
+      "videoId": "HMog8nxB8Ks",
+      "title": "Milwaukee Bucks vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | November 2, 2026 NBA Season",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=HMog8nxB8Ks",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-11-02"
+    },
+    {
+      "videoId": "GdB_UPDUR2Q",
+      "title": "Chicago Bulls vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | November 2, 2026 NBA Season",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=GdB_UPDUR2Q",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "76ers"
+      ],
+      "gameDate": "2026-11-02"
+    },
+    {
+      "videoId": "pRMMM83QobI",
+      "title": "Oklahoma City Thunder vs Cleveland Cavaliers - FULL GAME HIGHLIGHTS | November 2, 2026 NBA Season",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=pRMMM83QobI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "yvckXUGV8Mo",
@@ -467,7 +727,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=yvckXUGV8Mo",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "8K-SL92pXR0",
@@ -479,7 +740,8 @@
       "teams": [
         "Warriors",
         "Suns"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "Bi7GjCuSsKY",
@@ -491,7 +753,8 @@
       "teams": [
         "Clippers",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "wCjTikWeEBE",
@@ -503,7 +766,8 @@
       "teams": [
         "Lakers",
         "Heat"
-      ]
+      ],
+      "gameDate": "2026-11-02"
     },
     {
       "videoId": "X3cR-TMPnhc",
@@ -512,7 +776,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=X3cR-TMPnhc",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-11-01"
     },
     {
       "videoId": "s5OCLiq4gnU",
@@ -524,7 +789,8 @@
       "teams": [
         "Lakers",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-11-01"
     },
     {
       "videoId": "wQr-WKrgoBE",
@@ -536,7 +802,8 @@
       "teams": [
         "Warriors",
         "Clippers"
-      ]
+      ],
+      "gameDate": "2026-11-01"
     },
     {
       "videoId": "8vOx-N_7iEQ",
@@ -548,7 +815,47 @@
       "teams": [
         "Nets",
         "Pacers"
-      ]
+      ],
+      "gameDate": "2026-11-01"
+    },
+    {
+      "videoId": "V21la21FRg8",
+      "title": "Toronto Raptors vs Los Angeles Lakers - FULL GAME HIGHLIGHTS | November 1, 2026 NBA Season",
+      "publishedAt": "2026-11-02T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=V21la21FRg8",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Raptors"
+      ],
+      "gameDate": "2026-11-01"
+    },
+    {
+      "videoId": "Wo4C3j9RmOg",
+      "title": "LA Clippers vs Golden State Warriors - FULL GAME HIGHLIGHTS | November 1, 2026 NBA Season",
+      "publishedAt": "2026-11-02T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Wo4C3j9RmOg",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Clippers"
+      ],
+      "gameDate": "2026-11-01"
+    },
+    {
+      "videoId": "ql28dnf55pU",
+      "title": "Boston Celtics vs Orlando Magic - FULL GAME HIGHLIGHTS | November 1, 2026 NBA Season",
+      "publishedAt": "2026-11-02T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ql28dnf55pU",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Magic"
+      ],
+      "gameDate": "2026-11-01"
     },
     {
       "videoId": "TTUozO5Lh5A",
@@ -557,7 +864,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=TTUozO5Lh5A",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-31"
     },
     {
       "videoId": "t3JmXLKz_Ho",
@@ -569,7 +877,8 @@
       "teams": [
         "Rockets",
         "Thunder"
-      ]
+      ],
+      "gameDate": "2026-10-31"
     },
     {
       "videoId": "XZpUbplSQrw",
@@ -581,7 +890,8 @@
       "teams": [
         "Grizzlies",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-10-31"
     },
     {
       "videoId": "f6lF_MU7bzE",
@@ -593,7 +903,8 @@
       "teams": [
         "Timberwolves",
         "Spurs"
-      ]
+      ],
+      "gameDate": "2026-10-31"
     },
     {
       "videoId": "AigPdlRpHP0",
@@ -605,7 +916,8 @@
       "teams": [
         "Cavaliers",
         "Bucks"
-      ]
+      ],
+      "gameDate": "2026-10-31"
     },
     {
       "videoId": "ZNMoT-528LY",
@@ -617,7 +929,8 @@
       "teams": [
         "Hawks",
         "Pelicans"
-      ]
+      ],
+      "gameDate": "2026-10-31"
     },
     {
       "videoId": "Xqemq4BBrm4",
@@ -629,7 +942,8 @@
       "teams": [
         "Hornets",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-10-31"
     },
     {
       "videoId": "kWat0xmtoV0",
@@ -641,7 +955,60 @@
       "teams": [
         "Trail Blazers",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-10-31"
+    },
+    {
+      "videoId": "-xNpXUqD5Vc",
+      "title": "Oklahoma City Thunder vs Houston Rockets - FULL GAME HIGHLIGHTS | October 31, 2026 NBA Season",
+      "publishedAt": "2026-11-01T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=-xNpXUqD5Vc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Thunder"
+      ],
+      "gameDate": "2026-10-31"
+    },
+    {
+      "videoId": "Rm588lAuA7I",
+      "title": "Minnesota Timberwolves vs San Antonio Spurs - FULL GAME HIGHLIGHTS | October 31, 2026 NBA Season",
+      "publishedAt": "2026-11-01T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Rm588lAuA7I",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Spurs"
+      ],
+      "gameDate": "2026-10-31"
+    },
+    {
+      "videoId": "2CeDjBff1kE",
+      "title": "Cleveland Cavaliers vs Milwaukee Bucks - FULL GAME HIGHLIGHTS | October 31, 2026 NBA Season",
+      "publishedAt": "2026-11-01T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=2CeDjBff1kE",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Bucks"
+      ],
+      "gameDate": "2026-10-31"
+    },
+    {
+      "videoId": "kbv_UGPyzGs",
+      "title": "Philadelphia 76ers vs Charlotte Hornets - FULL GAME HIGHLIGHTS | October 31, 2026 NBA Season",
+      "publishedAt": "2026-11-01T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=kbv_UGPyzGs",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Hornets",
+        "76ers"
+      ],
+      "gameDate": "2026-10-31"
     },
     {
       "videoId": "vkO61UGRuZs",
@@ -650,7 +1017,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=vkO61UGRuZs",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "npXSZQsGdpw",
@@ -662,7 +1030,8 @@
       "teams": [
         "Warriors",
         "Lakers"
-      ]
+      ],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "YVRgY754X8k",
@@ -674,7 +1043,8 @@
       "teams": [
         "Nuggets",
         "Suns"
-      ]
+      ],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "RJW6YpenF-Y",
@@ -686,7 +1056,8 @@
       "teams": [
         "Mavericks",
         "Rockets"
-      ]
+      ],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "u9oAoYokw7k",
@@ -698,7 +1069,8 @@
       "teams": [
         "Pacers",
         "Heat"
-      ]
+      ],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "w2jhGRuvouA",
@@ -710,7 +1082,8 @@
       "teams": [
         "Knicks",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "63hEz2CIWIk",
@@ -722,7 +1095,8 @@
       "teams": [
         "Nets",
         "Pistons"
-      ]
+      ],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "nq1PSlahwIc",
@@ -734,7 +1108,8 @@
       "teams": [
         "Clippers",
         "Timberwolves"
-      ]
+      ],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "QM_6ANAk3Tc",
@@ -746,7 +1121,8 @@
       "teams": [
         "Celtics",
         "Bulls"
-      ]
+      ],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "RmURKQmof1Y",
@@ -758,7 +1134,8 @@
       "teams": [
         "Magic",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "m3Z07hnlrc4",
@@ -770,7 +1147,73 @@
       "teams": [
         "Hornets",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-10-30"
+    },
+    {
+      "videoId": "9cc0Hr90Jrg",
+      "title": "Los Angeles Lakers vs Golden State Warriors - FULL GAME HIGHLIGHTS | October 30, 2026 NBA Cup",
+      "publishedAt": "2026-10-31T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=9cc0Hr90Jrg",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Lakers"
+      ],
+      "gameDate": "2026-10-30"
+    },
+    {
+      "videoId": "OBDU5TBJ1V0",
+      "title": "Houston Rockets vs Dallas Mavericks - FULL GAME HIGHLIGHTS | October 30, 2026 NBA Cup",
+      "publishedAt": "2026-10-31T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=OBDU5TBJ1V0",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Rockets"
+      ],
+      "gameDate": "2026-10-30"
+    },
+    {
+      "videoId": "OgXCsPsEnc4",
+      "title": "Los Angeles Clippers vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | October 30, 2026 NBA Cup",
+      "publishedAt": "2026-10-31T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=OgXCsPsEnc4",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-10-30"
+    },
+    {
+      "videoId": "QuGUxmUqSFg",
+      "title": "Chicago Bulls vs Boston Celtics - FULL GAME HIGHLIGHTS | October 30, 2026 NBA Cup",
+      "publishedAt": "2026-10-31T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=QuGUxmUqSFg",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Bulls"
+      ],
+      "gameDate": "2026-10-30"
+    },
+    {
+      "videoId": "GJ3T4VIaCHs",
+      "title": "New York Knicks vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | October 30, 2026 NBA Cup",
+      "publishedAt": "2026-10-31T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=GJ3T4VIaCHs",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Knicks",
+        "76ers"
+      ],
+      "gameDate": "2026-10-30"
     },
     {
       "videoId": "cvWfZZ7KAnk",
@@ -779,7 +1222,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=cvWfZZ7KAnk",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-29"
     },
     {
       "videoId": "AsAPLWibSy4",
@@ -791,7 +1235,8 @@
       "teams": [
         "Grizzlies",
         "Trail Blazers"
-      ]
+      ],
+      "gameDate": "2026-10-29"
     },
     {
       "videoId": "PJO8_pxOr08",
@@ -803,7 +1248,8 @@
       "teams": [
         "Hawks",
         "Cavaliers"
-      ]
+      ],
+      "gameDate": "2026-10-29"
     },
     {
       "videoId": "-xdS0PuljsU",
@@ -815,7 +1261,47 @@
       "teams": [
         "Pelicans",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-10-29"
+    },
+    {
+      "videoId": "s7cR-PRh9YQ",
+      "title": "Memphis Grizzlies vs Portland Trail Blazers - FULL GAME HIGHLIGHTS | October 29, 2026 NBA Season",
+      "publishedAt": "2026-10-30T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=s7cR-PRh9YQ",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Grizzlies",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-10-29"
+    },
+    {
+      "videoId": "B9eBUbgUHhM",
+      "title": "Cleveland Cavaliers vs Atlanta Hawks - FULL GAME HIGHLIGHTS | October 29, 2026 NBA Season",
+      "publishedAt": "2026-10-30T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=B9eBUbgUHhM",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Cavaliers"
+      ],
+      "gameDate": "2026-10-29"
+    },
+    {
+      "videoId": "-TTgO44rqvk",
+      "title": "Sacramento Kings vs New Orleans Pelicans - FULL GAME HIGHLIGHTS | October 29, 2026 NBA Season",
+      "publishedAt": "2026-10-30T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=-TTgO44rqvk",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pelicans",
+        "Kings"
+      ],
+      "gameDate": "2026-10-29"
     },
     {
       "videoId": "Gfn3oCjXio4",
@@ -824,7 +1310,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=Gfn3oCjXio4",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "6TqEIclfr7k",
@@ -836,7 +1323,8 @@
       "teams": [
         "Clippers",
         "Lakers"
-      ]
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "8j-l0KIwZYc",
@@ -848,7 +1336,8 @@
       "teams": [
         "Spurs",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "CnDNAnTuKz0",
@@ -860,7 +1349,8 @@
       "teams": [
         "Warriors",
         "Timberwolves"
-      ]
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "ww14VK1ISh4",
@@ -872,7 +1362,8 @@
       "teams": [
         "Nuggets",
         "Pelicans"
-      ]
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "xk8otir_vlg",
@@ -884,7 +1375,8 @@
       "teams": [
         "Bulls",
         "Knicks"
-      ]
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "oFwrlXtEmXg",
@@ -896,7 +1388,8 @@
       "teams": [
         "Rockets",
         "Bucks"
-      ]
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "wkvPTR2m7Is",
@@ -908,7 +1401,8 @@
       "teams": [
         "Magic",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "67g10QAeRCM",
@@ -920,7 +1414,8 @@
       "teams": [
         "Pacers",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "RbotdNLEPvI",
@@ -932,7 +1427,8 @@
       "teams": [
         "Hornets",
         "Pistons"
-      ]
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "xWJfcKNc3AE",
@@ -944,7 +1440,8 @@
       "teams": [
         "Cavaliers",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "d-T6kaZyzf0",
@@ -956,7 +1453,86 @@
       "teams": [
         "Hawks",
         "Heat"
-      ]
+      ],
+      "gameDate": "2026-10-28"
+    },
+    {
+      "videoId": "npK01WoePzc",
+      "title": "Los Angeles Lakers vs Los Angeles Clippers - FULL GAME HIGHLIGHTS | October 28, 2026 NBA Season",
+      "publishedAt": "2026-10-29T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=npK01WoePzc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Lakers"
+      ],
+      "gameDate": "2026-10-28"
+    },
+    {
+      "videoId": "9i4hoh_6-XI",
+      "title": "Oklahoma City Thunder vs Dallas Mavericks - FULL GAME HIGHLIGHTS | October 28, 2026 NBA Season",
+      "publishedAt": "2026-10-29T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=9i4hoh_6-XI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Thunder"
+      ],
+      "gameDate": "2026-10-28"
+    },
+    {
+      "videoId": "q2Nj18-ensc",
+      "title": "San Antonio Spurs vs Utah Jazz - FULL GAME HIGHLIGHTS | October 28, 2026 NBA Season",
+      "publishedAt": "2026-10-29T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=q2Nj18-ensc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Spurs",
+        "Jazz"
+      ],
+      "gameDate": "2026-10-28"
+    },
+    {
+      "videoId": "wh6RyJ_kNAM",
+      "title": "Golden State Warriors vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | October 28, 2026 NBA Season",
+      "publishedAt": "2026-10-29T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=wh6RyJ_kNAM",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-10-28"
+    },
+    {
+      "videoId": "usn9-0XIeYY",
+      "title": "Houston Rockets vs Milwaukee Bucks - FULL GAME HIGHLIGHTS | October 28, 2026 NBA Season",
+      "publishedAt": "2026-10-29T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=usn9-0XIeYY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Bucks"
+      ],
+      "gameDate": "2026-10-28"
+    },
+    {
+      "videoId": "_WHQO-mJIno",
+      "title": "Philadelphia 76ers vs Indiana Pacers - FULL GAME HIGHLIGHTS | October 28, 2026 NBA Season",
+      "publishedAt": "2026-10-29T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=_WHQO-mJIno",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pacers",
+        "76ers"
+      ],
+      "gameDate": "2026-10-28"
     },
     {
       "videoId": "s1j-RrygdfE",
@@ -965,7 +1541,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=s1j-RrygdfE",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-27"
     },
     {
       "videoId": "9O0VUbyxm6w",
@@ -974,7 +1551,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=9O0VUbyxm6w",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-27"
     },
     {
       "videoId": "X5EXmi9Ihkc",
@@ -986,7 +1564,8 @@
       "teams": [
         "Lakers",
         "Trail Blazers"
-      ]
+      ],
+      "gameDate": "2026-10-27"
     },
     {
       "videoId": "Roz4iFs4Rto",
@@ -998,7 +1577,8 @@
       "teams": [
         "Celtics",
         "Nets"
-      ]
+      ],
+      "gameDate": "2026-10-27"
     },
     {
       "videoId": "CRso2RiQ_-M",
@@ -1010,7 +1590,8 @@
       "teams": [
         "Pistons",
         "Knicks"
-      ]
+      ],
+      "gameDate": "2026-10-27"
     },
     {
       "videoId": "5-hZ9qdOcYw",
@@ -1022,7 +1603,60 @@
       "teams": [
         "Kings",
         "Spurs"
-      ]
+      ],
+      "gameDate": "2026-10-27"
+    },
+    {
+      "videoId": "tYIfS_WFLw8",
+      "title": "Portland Trail Blazers vs Los Angeles Lakers - FULL GAME HIGHLIGHTS | October 27, 2026 NBA Season",
+      "publishedAt": "2026-10-28T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=tYIfS_WFLw8",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-10-27"
+    },
+    {
+      "videoId": "PQ2HJ5z73NQ",
+      "title": "Brooklyn Nets vs Boston Celtics - FULL GAME HIGHLIGHTS | October 27, 2026 NBA Season",
+      "publishedAt": "2026-10-28T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=PQ2HJ5z73NQ",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Nets"
+      ],
+      "gameDate": "2026-10-27"
+    },
+    {
+      "videoId": "CqsFCHImJkA",
+      "title": "Detroit Pistons vs New York Knicks - FULL GAME HIGHLIGHTS | October 27, 2026 NBA Season",
+      "publishedAt": "2026-10-28T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=CqsFCHImJkA",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Knicks"
+      ],
+      "gameDate": "2026-10-27"
+    },
+    {
+      "videoId": "XSZQXwI0tUI",
+      "title": "Sacramento Kings vs San Antonio Spurs - FULL GAME HIGHLIGHTS | October 27, 2026 NBA Season",
+      "publishedAt": "2026-10-28T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=XSZQXwI0tUI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Kings",
+        "Spurs"
+      ],
+      "gameDate": "2026-10-27"
     },
     {
       "videoId": "BU3BDM6yPQ4",
@@ -1031,7 +1665,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=BU3BDM6yPQ4",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-26"
     },
     {
       "videoId": "AHOFXEAw58k",
@@ -1043,7 +1678,8 @@
       "teams": [
         "Nuggets",
         "Warriors"
-      ]
+      ],
+      "gameDate": "2026-10-26"
     },
     {
       "videoId": "uyUAxlfj77s",
@@ -1055,7 +1691,8 @@
       "teams": [
         "Grizzlies",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-10-26"
     },
     {
       "videoId": "6TlvMGNxCBw",
@@ -1067,7 +1704,8 @@
       "teams": [
         "Hawks",
         "Rockets"
-      ]
+      ],
+      "gameDate": "2026-10-26"
     },
     {
       "videoId": "ZuTuycl-wYc",
@@ -1079,7 +1717,8 @@
       "teams": [
         "Thunder",
         "Suns"
-      ]
+      ],
+      "gameDate": "2026-10-26"
     },
     {
       "videoId": "SSJORIN8D1M",
@@ -1091,7 +1730,8 @@
       "teams": [
         "Pacers",
         "Bucks"
-      ]
+      ],
+      "gameDate": "2026-10-26"
     },
     {
       "videoId": "DTNqMLNVBC8",
@@ -1103,7 +1743,8 @@
       "teams": [
         "Celtics",
         "Bulls"
-      ]
+      ],
+      "gameDate": "2026-10-26"
     },
     {
       "videoId": "vDxNf1bBs6o",
@@ -1115,7 +1756,8 @@
       "teams": [
         "Mavericks",
         "Heat"
-      ]
+      ],
+      "gameDate": "2026-10-26"
     },
     {
       "videoId": "8q9lu3T5twU",
@@ -1127,7 +1769,8 @@
       "teams": [
         "Cavaliers",
         "Timberwolves"
-      ]
+      ],
+      "gameDate": "2026-10-26"
     },
     {
       "videoId": "kLAQRSIIDkQ",
@@ -1139,7 +1782,86 @@
       "teams": [
         "Hornets",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-10-26"
+    },
+    {
+      "videoId": "uKoBv6HZ9cw",
+      "title": "Golden State Warriors vs Denver Nuggets - FULL GAME HIGHLIGHTS | October 26, 2026 NBA Season",
+      "publishedAt": "2026-10-27T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=uKoBv6HZ9cw",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Warriors"
+      ],
+      "gameDate": "2026-10-26"
+    },
+    {
+      "videoId": "_SIANOx2W-E",
+      "title": "Atlanta Hawks vs Houston Rockets - FULL GAME HIGHLIGHTS | October 26, 2026 NBA Season",
+      "publishedAt": "2026-10-27T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=_SIANOx2W-E",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Rockets"
+      ],
+      "gameDate": "2026-10-26"
+    },
+    {
+      "videoId": "kMGJDpED7jY",
+      "title": "Phoenix Suns vs Oklahoma City Thunder - FULL GAME HIGHLIGHTS | October 26, 2026 NBA Season",
+      "publishedAt": "2026-10-27T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=kMGJDpED7jY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Thunder",
+        "Suns"
+      ],
+      "gameDate": "2026-10-26"
+    },
+    {
+      "videoId": "VtooTeATCt0",
+      "title": "Chicago Bulls vs Boston Celtics - FULL GAME HIGHLIGHTS | October 26, 2026 NBA Season",
+      "publishedAt": "2026-10-27T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=VtooTeATCt0",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Bulls"
+      ],
+      "gameDate": "2026-10-26"
+    },
+    {
+      "videoId": "kGmtTKoPL98",
+      "title": "Dallas Mavericks vs Miami Heat - FULL GAME HIGHLIGHTS | October 26, 2026 NBA Season",
+      "publishedAt": "2026-10-27T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=kGmtTKoPL98",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Heat"
+      ],
+      "gameDate": "2026-10-26"
+    },
+    {
+      "videoId": "I2ii_nWYaBk",
+      "title": "Minnesota Timberwolves vs Cleveland Cavaliers - FULL GAME HIGHLIGHTS | October 26, 2026 NBA Season",
+      "publishedAt": "2026-10-27T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=I2ii_nWYaBk",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-10-26"
     },
     {
       "videoId": "Va9iwyHJjLo",
@@ -1148,7 +1870,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=Va9iwyHJjLo",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-25"
     },
     {
       "videoId": "K7AjpmStxyU",
@@ -1160,7 +1883,8 @@
       "teams": [
         "Grizzlies",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-10-25"
     },
     {
       "videoId": "GZzCjdjsTAo",
@@ -1172,7 +1896,8 @@
       "teams": [
         "Pistons",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-10-25"
     },
     {
       "videoId": "7BGoRcTXud8",
@@ -1184,7 +1909,8 @@
       "teams": [
         "Clippers",
         "Thunder"
-      ]
+      ],
+      "gameDate": "2026-10-25"
     },
     {
       "videoId": "mcXdA_8LaUs",
@@ -1196,7 +1922,8 @@
       "teams": [
         "Timberwolves",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-10-25"
     },
     {
       "videoId": "FwN_PBKYgMQ",
@@ -1208,7 +1935,8 @@
       "teams": [
         "Knicks",
         "Magic"
-      ]
+      ],
+      "gameDate": "2026-10-25"
     },
     {
       "videoId": "_4MO3BVOKkU",
@@ -1220,7 +1948,8 @@
       "teams": [
         "Nets",
         "Pacers"
-      ]
+      ],
+      "gameDate": "2026-10-25"
     },
     {
       "videoId": "k9zo4pfctTg",
@@ -1232,7 +1961,60 @@
       "teams": [
         "Lakers",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-10-25"
+    },
+    {
+      "videoId": "jCCAkN5l-Sk",
+      "title": "Detroit Pistons vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | October 25, 2026 NBA Season",
+      "publishedAt": "2026-10-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=jCCAkN5l-Sk",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "76ers"
+      ],
+      "gameDate": "2026-10-25"
+    },
+    {
+      "videoId": "BxqKGi2qH8U",
+      "title": "Toronto Raptors vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | October 25, 2026 NBA Season",
+      "publishedAt": "2026-10-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=BxqKGi2qH8U",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Raptors"
+      ],
+      "gameDate": "2026-10-25"
+    },
+    {
+      "videoId": "r1AQDHptCmY",
+      "title": "Los Angeles Clippers vs Oklahoma City Thunder - FULL GAME HIGHLIGHTS | October 25, 2026 NBA Season",
+      "publishedAt": "2026-10-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=r1AQDHptCmY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Thunder"
+      ],
+      "gameDate": "2026-10-25"
+    },
+    {
+      "videoId": "tXtpep-QqXQ",
+      "title": "Los Angeles Lakers vs Utah Jazz - FULL GAME HIGHLIGHTS | October 25, 2026 NBA Season",
+      "publishedAt": "2026-10-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=tXtpep-QqXQ",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Jazz"
+      ],
+      "gameDate": "2026-10-25"
     },
     {
       "videoId": "7GbdkPD3oRQ",
@@ -1241,7 +2023,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=7GbdkPD3oRQ",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-24"
     },
     {
       "videoId": "7wKdoaRzQB0",
@@ -1253,7 +2036,8 @@
       "teams": [
         "Warriors",
         "Suns"
-      ]
+      ],
+      "gameDate": "2026-10-24"
     },
     {
       "videoId": "xN2DI4cxvXc",
@@ -1265,7 +2049,8 @@
       "teams": [
         "Nuggets",
         "Pelicans"
-      ]
+      ],
+      "gameDate": "2026-10-24"
     },
     {
       "videoId": "Z5yBg42u7N4",
@@ -1277,7 +2062,8 @@
       "teams": [
         "Hawks",
         "Rockets"
-      ]
+      ],
+      "gameDate": "2026-10-24"
     },
     {
       "videoId": "Lw6ZDR4KRIY",
@@ -1289,7 +2075,8 @@
       "teams": [
         "Bulls",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-10-24"
     },
     {
       "videoId": "jmxhqhQIUyY",
@@ -1301,7 +2088,8 @@
       "teams": [
         "Nets",
         "Cavaliers"
-      ]
+      ],
+      "gameDate": "2026-10-24"
     },
     {
       "videoId": "vTUV7qXzPSA",
@@ -1313,7 +2101,8 @@
       "teams": [
         "Mavericks",
         "Spurs"
-      ]
+      ],
+      "gameDate": "2026-10-24"
     },
     {
       "videoId": "UIiV46AZIh4",
@@ -1325,7 +2114,8 @@
       "teams": [
         "Bucks",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-10-24"
     },
     {
       "videoId": "DPgrjyciioY",
@@ -1337,7 +2127,73 @@
       "teams": [
         "Hornets",
         "Heat"
-      ]
+      ],
+      "gameDate": "2026-10-24"
+    },
+    {
+      "videoId": "dMmtKREUgqk",
+      "title": "Houston Rockets vs Atlanta Hawks - FULL GAME HIGHLIGHTS | October 24, 2026 NBA Season",
+      "publishedAt": "2026-10-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=dMmtKREUgqk",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Rockets"
+      ],
+      "gameDate": "2026-10-24"
+    },
+    {
+      "videoId": "gFBNnQ6RPWg",
+      "title": "New Orleans Pelicans vs Denver Nuggets - FULL GAME HIGHLIGHTS | October 24, 2026 NBA Season",
+      "publishedAt": "2026-10-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=gFBNnQ6RPWg",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Pelicans"
+      ],
+      "gameDate": "2026-10-24"
+    },
+    {
+      "videoId": "xhuatAuanRE",
+      "title": "San Antonio Spurs vs Dallas Mavericks - FULL GAME HIGHLIGHTS | October 24, 2026 NBA Season",
+      "publishedAt": "2026-10-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=xhuatAuanRE",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Spurs"
+      ],
+      "gameDate": "2026-10-24"
+    },
+    {
+      "videoId": "P3PlqDLnkbU",
+      "title": "Milwaukee Bucks vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | October 24, 2026 NBA Season",
+      "publishedAt": "2026-10-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=P3PlqDLnkbU",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "76ers"
+      ],
+      "gameDate": "2026-10-24"
+    },
+    {
+      "videoId": "9aQYCm3EYQA",
+      "title": "Miami Heat vs Charlotte Hornets - FULL GAME HIGHLIGHTS | October 24, 2026 NBA Season",
+      "publishedAt": "2026-10-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=9aQYCm3EYQA",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Hornets",
+        "Heat"
+      ],
+      "gameDate": "2026-10-24"
     },
     {
       "videoId": "ZG-VOv0iI7Q",
@@ -1346,7 +2202,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=ZG-VOv0iI7Q",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "2o4lgEQCOgk",
@@ -1358,7 +2215,8 @@
       "teams": [
         "Warriors",
         "Grizzlies"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "KVC5atVkCyE",
@@ -1370,7 +2228,8 @@
       "teams": [
         "Clippers",
         "Lakers"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "P3U_TwDKT-Y",
@@ -1382,7 +2241,8 @@
       "teams": [
         "Trail Blazers",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "sXlPebl2zfk",
@@ -1394,7 +2254,8 @@
       "teams": [
         "Pelicans",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "ZUslpiyp7G4",
@@ -1406,7 +2267,8 @@
       "teams": [
         "Rockets",
         "Spurs"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "Q052nRK7KNk",
@@ -1418,7 +2280,8 @@
       "teams": [
         "Pistons",
         "Heat"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "If1DIVuMPkc",
@@ -1430,7 +2293,8 @@
       "teams": [
         "Mavericks",
         "Pacers"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "9n0WtH6pzGc",
@@ -1442,7 +2306,8 @@
       "teams": [
         "Celtics",
         "Knicks"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "nL79PGsNMNc",
@@ -1454,7 +2319,8 @@
       "teams": [
         "Raptors",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "KoRT1d_i13o",
@@ -1466,7 +2332,8 @@
       "teams": [
         "Timberwolves",
         "Magic"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "w4g6vpvVyos",
@@ -1478,7 +2345,8 @@
       "teams": [
         "Hawks",
         "Hornets"
-      ]
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "r5pqf0we5uM",
@@ -1490,7 +2358,112 @@
       "teams": [
         "Bulls",
         "Bucks"
-      ]
+      ],
+      "gameDate": "2026-10-23"
+    },
+    {
+      "videoId": "gs_2djIo1ZE",
+      "title": "Memphis Grizzlies vs Golden State Warriors - FULL GAME HIGHLIGHTS | October 23, 2026 NBA Season",
+      "publishedAt": "2026-10-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=gs_2djIo1ZE",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Grizzlies"
+      ],
+      "gameDate": "2026-10-23"
+    },
+    {
+      "videoId": "sN_Zw4lCL2o",
+      "title": "Los Angeles Clippers vs Los Angeles Lakers - FULL GAME HIGHLIGHTS | October 23, 2026 NBA Season",
+      "publishedAt": "2026-10-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=sN_Zw4lCL2o",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Lakers"
+      ],
+      "gameDate": "2026-10-23"
+    },
+    {
+      "videoId": "wgAlf44eZBQ",
+      "title": "Houston Rockets vs San Antonio Spurs - FULL GAME HIGHLIGHTS | October 23, 2026 NBA Season",
+      "publishedAt": "2026-10-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=wgAlf44eZBQ",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Spurs"
+      ],
+      "gameDate": "2026-10-23"
+    },
+    {
+      "videoId": "Vhc6TWq5qgY",
+      "title": "Detroit Pistons vs Miami Heat - FULL GAME HIGHLIGHTS | October 23, 2026 NBA Season",
+      "publishedAt": "2026-10-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Vhc6TWq5qgY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Heat"
+      ],
+      "gameDate": "2026-10-23"
+    },
+    {
+      "videoId": "6gHk7ubn_tE",
+      "title": "Dallas Mavericks vs Indiana Pacers - FULL GAME HIGHLIGHTS | October 23, 2026 NBA Season",
+      "publishedAt": "2026-10-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=6gHk7ubn_tE",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Pacers"
+      ],
+      "gameDate": "2026-10-23"
+    },
+    {
+      "videoId": "d97pEIqI2TM",
+      "title": "New York Knicks vs Boston Celtics - FULL GAME HIGHLIGHTS | October 23, 2026 NBA Season",
+      "publishedAt": "2026-10-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=d97pEIqI2TM",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Knicks"
+      ],
+      "gameDate": "2026-10-23"
+    },
+    {
+      "videoId": "rcOmYR2nNrI",
+      "title": "Minnesota Timberwolves vs Orlando Magic - FULL GAME HIGHLIGHTS | October 23, 2026 NBA Season",
+      "publishedAt": "2026-10-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=rcOmYR2nNrI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Magic"
+      ],
+      "gameDate": "2026-10-23"
+    },
+    {
+      "videoId": "B8zPsrr439Q",
+      "title": "Chicago Bulls vs Milwaukee Bucks - FULL GAME HIGHLIGHTS | October 23, 2026 NBA Season",
+      "publishedAt": "2026-10-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=B8zPsrr439Q",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Bucks"
+      ],
+      "gameDate": "2026-10-23"
     },
     {
       "videoId": "tIsw4QK1Ung",
@@ -1499,7 +2472,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=tIsw4QK1Ung",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-22"
     },
     {
       "videoId": "aEAJfS_6J0g",
@@ -1511,7 +2485,8 @@
       "teams": [
         "Nuggets",
         "Thunder"
-      ]
+      ],
+      "gameDate": "2026-10-22"
     },
     {
       "videoId": "2SHdd_RRsRw",
@@ -1523,7 +2498,34 @@
       "teams": [
         "Cavaliers",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-10-22"
+    },
+    {
+      "videoId": "UjI8CxElMQ0",
+      "title": "Denver Nuggets vs Oklahoma City Thunder - FULL GAME HIGHLIGHTS | October 22, 2026 NBA Season",
+      "publishedAt": "2026-10-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=UjI8CxElMQ0",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Thunder"
+      ],
+      "gameDate": "2026-10-22"
+    },
+    {
+      "videoId": "OZQLn1G7d90",
+      "title": "Cleveland Cavaliers vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | October 22, 2026 NBA Season",
+      "publishedAt": "2026-10-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=OZQLn1G7d90",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "76ers"
+      ],
+      "gameDate": "2026-10-22"
     },
     {
       "videoId": "KABX-E-SRwA",
@@ -1532,7 +2534,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=KABX-E-SRwA",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "qEepDtX5qLM",
@@ -1544,7 +2547,8 @@
       "teams": [
         "Clippers",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "GU4e--bCuwQ",
@@ -1556,7 +2560,8 @@
       "teams": [
         "Warriors",
         "Lakers"
-      ]
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "EC_WSF7sPuI",
@@ -1568,7 +2573,8 @@
       "teams": [
         "Suns",
         "Trail Blazers"
-      ]
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "4hNRkmyNe90",
@@ -1580,7 +2586,8 @@
       "teams": [
         "Mavericks",
         "Rockets"
-      ]
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "dqVSIkG1s0Q",
@@ -1592,7 +2599,8 @@
       "teams": [
         "Pacers",
         "Pelicans"
-      ]
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "6IVDF14w-Cc",
@@ -1604,7 +2612,8 @@
       "teams": [
         "Grizzlies",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "y1pbO1uDxUY",
@@ -1616,7 +2625,8 @@
       "teams": [
         "Bulls",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "3Ttdjq57W9E",
@@ -1628,7 +2638,8 @@
       "teams": [
         "Nets",
         "Hornets"
-      ]
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "pLXx9k6RYMY",
@@ -1640,7 +2651,8 @@
       "teams": [
         "Heat",
         "Timberwolves"
-      ]
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "Dwea5DcKfK4",
@@ -1652,7 +2664,8 @@
       "teams": [
         "Hawks",
         "Magic"
-      ]
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "q1QqueBYMQo",
@@ -1664,7 +2677,73 @@
       "teams": [
         "Bucks",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-10-21"
+    },
+    {
+      "videoId": "Y5i6BM-ry3g",
+      "title": "Phoenix Suns vs Portland Trail Blazers - FULL GAME HIGHLIGHTS | October 21, 2026 NBA Season",
+      "publishedAt": "2026-10-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Y5i6BM-ry3g",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Suns",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-10-21"
+    },
+    {
+      "videoId": "EYrLzBXmQG4",
+      "title": "Golden State Warriors vs Los Angeles Lakers - FULL GAME HIGHLIGHTS | October 21, 2026 NBA Season",
+      "publishedAt": "2026-10-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=EYrLzBXmQG4",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Lakers"
+      ],
+      "gameDate": "2026-10-21"
+    },
+    {
+      "videoId": "WqKpYqyRp8c",
+      "title": "Dallas Mavericks vs Houston Rockets - FULL GAME HIGHLIGHTS | October 21, 2026 NBA Season",
+      "publishedAt": "2026-10-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=WqKpYqyRp8c",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Rockets"
+      ],
+      "gameDate": "2026-10-21"
+    },
+    {
+      "videoId": "aCZ0k-t5eIY",
+      "title": "Minnesota Timberwolves vs Miami Heat - FULL GAME HIGHLIGHTS | October 21, 2026 NBA Season",
+      "publishedAt": "2026-10-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=aCZ0k-t5eIY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Heat",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-10-21"
+    },
+    {
+      "videoId": "ZJOy2wjKrOI",
+      "title": "Chicago Bulls vs Toronto Raptors - FULL GAME HIGHLIGHTS | October 21, 2026 NBA Season",
+      "publishedAt": "2026-10-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ZJOy2wjKrOI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Raptors"
+      ],
+      "gameDate": "2026-10-21"
     },
     {
       "videoId": "-66hmMWFOcg",
@@ -1673,7 +2752,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=-66hmMWFOcg",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-10-20"
     },
     {
       "videoId": "PuRFyx_FSbs",
@@ -1685,7 +2765,8 @@
       "teams": [
         "Thunder",
         "Spurs"
-      ]
+      ],
+      "gameDate": "2026-10-20"
     },
     {
       "videoId": "mF7pmQEkS_A",
@@ -1697,7 +2778,8 @@
       "teams": [
         "Knicks",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-10-20"
     },
     {
       "videoId": "NZmml7nxVaI",
@@ -1709,7 +2791,47 @@
       "teams": [
         "Celtics",
         "Pistons"
-      ]
+      ],
+      "gameDate": "2026-10-20"
+    },
+    {
+      "videoId": "GCtLRnNlfRc",
+      "title": "Oklahoma City Thunder vs San Antonio Spurs - FULL GAME HIGHLIGHTS | October 20, 2026 NBA Season",
+      "publishedAt": "2026-10-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=GCtLRnNlfRc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Thunder",
+        "Spurs"
+      ],
+      "gameDate": "2026-10-20"
+    },
+    {
+      "videoId": "hVWGPZ8bOQQ",
+      "title": "Philadelphia 76ers vs New York Knicks - FULL GAME HIGHLIGHTS | October 20, 2026 NBA Season",
+      "publishedAt": "2026-10-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=hVWGPZ8bOQQ",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Knicks",
+        "76ers"
+      ],
+      "gameDate": "2026-10-20"
+    },
+    {
+      "videoId": "mlawGzu5jA8",
+      "title": "Boston Celtics vs Detroit Pistons - FULL GAME HIGHLIGHTS | October 20, 2026 NBA Season",
+      "publishedAt": "2026-10-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=mlawGzu5jA8",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Pistons"
+      ],
+      "gameDate": "2026-10-20"
     },
     {
       "videoId": "qhU2hqJ9rhc",
@@ -1721,7 +2843,8 @@
       "teams": [
         "Nuggets",
         "Lakers"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "fT671wr14Ys",
@@ -1733,7 +2856,8 @@
       "teams": [
         "Suns",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "xDunS4-w5Hg",
@@ -1745,7 +2869,8 @@
       "teams": [
         "Warriors",
         "Trail Blazers"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "pFRSoI2InLU",
@@ -1757,7 +2882,8 @@
       "teams": [
         "Hawks",
         "Mavericks"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "qz8Usmdv0QM",
@@ -1769,7 +2895,8 @@
       "teams": [
         "Pelicans",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "XmFFZxa6tM4",
@@ -1781,7 +2908,8 @@
       "teams": [
         "Bulls",
         "Timberwolves"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "1VjaB6MynyU",
@@ -1793,7 +2921,8 @@
       "teams": [
         "Kings",
         "Spurs"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "4Vk445ZPOCE",
@@ -1805,7 +2934,8 @@
       "teams": [
         "Hornets",
         "Grizzlies"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "Zwp1XDQlhl8",
@@ -1817,7 +2947,8 @@
       "teams": [
         "Pistons",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "h0LDSDljJMw",
@@ -1829,7 +2960,8 @@
       "teams": [
         "Celtics",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "1UcL1Xxx7sI",
@@ -1841,7 +2973,8 @@
       "teams": [
         "Pacers",
         "Bucks"
-      ]
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "vILUjksgw2Q",
@@ -1853,7 +2986,73 @@
       "teams": [
         "Heat",
         "Magic"
-      ]
+      ],
+      "gameDate": "2026-10-16"
+    },
+    {
+      "videoId": "zFZZRXE2qJM",
+      "title": "Denver Nuggets vs Los Angeles Lakers - FULL GAME HIGHLIGHTS | October 16, 2026 NBA Preseason",
+      "publishedAt": "2026-10-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=zFZZRXE2qJM",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Lakers"
+      ],
+      "gameDate": "2026-10-16"
+    },
+    {
+      "videoId": "ZsgPZYdOes4",
+      "title": "Portland Trail Blazers vs Golden State Warriors - FULL GAME HIGHLIGHTS | Oct 16, 2026 NBA Preseason",
+      "publishedAt": "2026-10-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ZsgPZYdOes4",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-10-16"
+    },
+    {
+      "videoId": "G3C_gEqAVzA",
+      "title": "Washington Wizards vs New Orleans Pelicans - FULL GAME HIGHLIGHTS | October 16, 2026 NBA Preseason",
+      "publishedAt": "2026-10-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=G3C_gEqAVzA",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pelicans",
+        "Wizards"
+      ],
+      "gameDate": "2026-10-16"
+    },
+    {
+      "videoId": "YSWog0YrjEI",
+      "title": "Sacramento Kings vs San Antonio Spurs - FULL GAME HIGHLIGHTS | October 16, 2026 NBA Preseason",
+      "publishedAt": "2026-10-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=YSWog0YrjEI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Kings",
+        "Spurs"
+      ],
+      "gameDate": "2026-10-16"
+    },
+    {
+      "videoId": "BJNgVtIVnO0",
+      "title": "Boston Celtics vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | October 16, 2026 NBA Preseason",
+      "publishedAt": "2026-10-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=BJNgVtIVnO0",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "76ers"
+      ],
+      "gameDate": "2026-10-16"
     },
     {
       "videoId": "bmrciQpiHFI",
@@ -1865,7 +3064,8 @@
       "teams": [
         "Rockets",
         "Thunder"
-      ]
+      ],
+      "gameDate": "2026-10-15"
     },
     {
       "videoId": "KcLfEwwzAw4",
@@ -1877,7 +3077,34 @@
       "teams": [
         "Knicks",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-10-15"
+    },
+    {
+      "videoId": "DCud1esicBI",
+      "title": "Oklahoma City Thunder vs Houston Rockets - FULL GAME HIGHLIGHTS | October 15, 2026 NBA Preseason",
+      "publishedAt": "2026-10-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=DCud1esicBI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Thunder"
+      ],
+      "gameDate": "2026-10-15"
+    },
+    {
+      "videoId": "-rJ1ORWcYaA",
+      "title": "Toronto Raptors vs New York Knicks - FULL GAME HIGHLIGHTS | October 15, 2026 NBA Preseason",
+      "publishedAt": "2026-10-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=-rJ1ORWcYaA",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Knicks",
+        "Raptors"
+      ],
+      "gameDate": "2026-10-15"
     },
     {
       "videoId": "ou4fHN6d3Ww",
@@ -1889,7 +3116,8 @@
       "teams": [
         "Nuggets",
         "Clippers"
-      ]
+      ],
+      "gameDate": "2026-10-14"
     },
     {
       "videoId": "bmqwoekTXg8",
@@ -1901,7 +3129,8 @@
       "teams": [
         "Bulls",
         "Bucks"
-      ]
+      ],
+      "gameDate": "2026-10-14"
     },
     {
       "videoId": "PMhkej9WpJA",
@@ -1913,7 +3142,8 @@
       "teams": [
         "Mavericks",
         "Pelicans"
-      ]
+      ],
+      "gameDate": "2026-10-14"
     },
     {
       "videoId": "BMlNel_dUyk",
@@ -1925,7 +3155,8 @@
       "teams": [
         "Pistons",
         "Timberwolves"
-      ]
+      ],
+      "gameDate": "2026-10-14"
     },
     {
       "videoId": "j-rTz31Pems",
@@ -1937,7 +3168,8 @@
       "teams": [
         "Suns",
         "Spurs"
-      ]
+      ],
+      "gameDate": "2026-10-14"
     },
     {
       "videoId": "4Mtdux5j_5U",
@@ -1949,7 +3181,8 @@
       "teams": [
         "Nets",
         "Heat"
-      ]
+      ],
+      "gameDate": "2026-10-14"
     },
     {
       "videoId": "KRTK_zDU5l0",
@@ -1961,7 +3194,47 @@
       "teams": [
         "Celtics",
         "Hornets"
-      ]
+      ],
+      "gameDate": "2026-10-14"
+    },
+    {
+      "videoId": "b7o3uyGog3I",
+      "title": "Detroit Pistons vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | October 14, 2026 NBA Preseason",
+      "publishedAt": "2026-10-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=b7o3uyGog3I",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-10-14"
+    },
+    {
+      "videoId": "Enn2boUOAJg",
+      "title": "Phoenix Suns vs San Antonio Spurs - FULL GAME HIGHLIGHTS | October 14, 2026 NBA Preseason",
+      "publishedAt": "2026-10-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Enn2boUOAJg",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Suns",
+        "Spurs"
+      ],
+      "gameDate": "2026-10-14"
+    },
+    {
+      "videoId": "vJsEsC6NjaY",
+      "title": "Brooklyn Nets vs Miami Heat - FULL GAME HIGHLIGHTS | October 14, 2026 NBA Preseason",
+      "publishedAt": "2026-10-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=vJsEsC6NjaY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nets",
+        "Heat"
+      ],
+      "gameDate": "2026-10-14"
     },
     {
       "videoId": "p9iE4bGvMP8",
@@ -1973,7 +3246,8 @@
       "teams": [
         "Trail Blazers",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-10-13"
     },
     {
       "videoId": "x6ajbvY0OjQ",
@@ -1985,7 +3259,8 @@
       "teams": [
         "Warriors",
         "Lakers"
-      ]
+      ],
+      "gameDate": "2026-10-13"
     },
     {
       "videoId": "xsl01r9uQLQ",
@@ -1997,7 +3272,8 @@
       "teams": [
         "Pacers",
         "Thunder"
-      ]
+      ],
+      "gameDate": "2026-10-13"
     },
     {
       "videoId": "EyQytP1xKiY",
@@ -2009,7 +3285,8 @@
       "teams": [
         "Knicks",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-10-13"
     },
     {
       "videoId": "c9qZ9Dc6ZvM",
@@ -2021,7 +3298,60 @@
       "teams": [
         "Cavaliers",
         "Magic"
-      ]
+      ],
+      "gameDate": "2026-10-13"
+    },
+    {
+      "videoId": "bQTiM0Z2pyo",
+      "title": "Portland Trail Blazers vs Sacramento Kings - FULL GAME HIGHLIGHTS | October 13, 2026 NBA Preseason",
+      "publishedAt": "2026-10-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=bQTiM0Z2pyo",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Trail Blazers",
+        "Kings"
+      ],
+      "gameDate": "2026-10-13"
+    },
+    {
+      "videoId": "K99AjWGrSII",
+      "title": "Golden State Warrors vs Los Angeles Lakers - FULL GAME HIGHLIGHTS | October 13, 2026 NBA Preseason",
+      "publishedAt": "2026-10-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=K99AjWGrSII",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Lakers"
+      ],
+      "gameDate": "2026-10-13"
+    },
+    {
+      "videoId": "wvIQZ5IiP7E",
+      "title": "Indiana Pacers vs Oklahoma City Thunder - FULL GAME HIGHLIGHTS | October 13, 2026 NBA Preseason",
+      "publishedAt": "2026-10-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=wvIQZ5IiP7E",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pacers",
+        "Thunder"
+      ],
+      "gameDate": "2026-10-13"
+    },
+    {
+      "videoId": "y7q5WSu0y5o",
+      "title": "New York Knicks vs Toronto Raptors - FULL GAME HIGHLIGHTS | October 13, 2026 NBA Preseason",
+      "publishedAt": "2026-10-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=y7q5WSu0y5o",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Knicks",
+        "Raptors"
+      ],
+      "gameDate": "2026-10-13"
     },
     {
       "videoId": "6pSjgLvoVYQ",
@@ -2033,7 +3363,8 @@
       "teams": [
         "Spurs",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-10-12"
     },
     {
       "videoId": "CqagxE5kpXU",
@@ -2045,7 +3376,8 @@
       "teams": [
         "Timberwolves",
         "Knicks"
-      ]
+      ],
+      "gameDate": "2026-10-12"
     },
     {
       "videoId": "EwhoARz1yB4",
@@ -2057,7 +3389,8 @@
       "teams": [
         "Nets",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-10-12"
     },
     {
       "videoId": "iNBVspsJJQc",
@@ -2069,7 +3402,21 @@
       "teams": [
         "Hawks",
         "Thunder"
-      ]
+      ],
+      "gameDate": "2026-10-12"
+    },
+    {
+      "videoId": "flnwHy8h5K0",
+      "title": "Minnesota Timberwolves vs New York Knicks - FULL GAME HIGHLIGHTS | October 12, 2026 NBA Preseason",
+      "publishedAt": "2026-10-13T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=flnwHy8h5K0",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Knicks"
+      ],
+      "gameDate": "2026-10-12"
     },
     {
       "videoId": "yINWDxMU3OM",
@@ -2081,7 +3428,8 @@
       "teams": [
         "Bulls",
         "Nuggets"
-      ]
+      ],
+      "gameDate": "2026-10-11"
     },
     {
       "videoId": "wj6iKc2UvN4",
@@ -2093,7 +3441,8 @@
       "teams": [
         "Hornets",
         "Bucks"
-      ]
+      ],
+      "gameDate": "2026-10-11"
     },
     {
       "videoId": "GwNNcZ3SpSo",
@@ -2105,7 +3454,8 @@
       "teams": [
         "Cavaliers",
         "Magic"
-      ]
+      ],
+      "gameDate": "2026-10-11"
     },
     {
       "videoId": "b0dZkVV_heM",
@@ -2117,7 +3467,47 @@
       "teams": [
         "Mavericks",
         "Rockets"
-      ]
+      ],
+      "gameDate": "2026-10-11"
+    },
+    {
+      "videoId": "5pIv8mART8Q",
+      "title": "Chicago Bulls vs Denver Nuggets - FULL GAME HIGHLIGHTS | October 11, 2026 NBA Preseason",
+      "publishedAt": "2026-10-12T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=5pIv8mART8Q",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Nuggets"
+      ],
+      "gameDate": "2026-10-11"
+    },
+    {
+      "videoId": "oW6iaZ88Znw",
+      "title": "Orlando Magic vs Cleveland Cavaliers - FULL GAME HIGHLIGHTS | October 11, 2026 NBA Preseason",
+      "publishedAt": "2026-10-12T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=oW6iaZ88Znw",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Magic"
+      ],
+      "gameDate": "2026-10-11"
+    },
+    {
+      "videoId": "DJU21tCWYD8",
+      "title": "Dallas Mavericks vs Houston Rockets - FULL GAME HIGHLIGHTS | October 11, 2026 NBA Preseason",
+      "publishedAt": "2026-10-12T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=DJU21tCWYD8",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Rockets"
+      ],
+      "gameDate": "2026-10-11"
     },
     {
       "videoId": "0XeTdAIO-uQ",
@@ -2129,7 +3519,8 @@
       "teams": [
         "Suns",
         "Spurs"
-      ]
+      ],
+      "gameDate": "2026-10-10"
     },
     {
       "videoId": "RR6z5YjGySs",
@@ -2141,7 +3532,8 @@
       "teams": [
         "Warriors",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-10-10"
     },
     {
       "videoId": "k8IPfKkH4bs",
@@ -2153,7 +3545,8 @@
       "teams": [
         "Celtics",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-10-10"
     },
     {
       "videoId": "ERLTLpRlCnw",
@@ -2165,7 +3558,8 @@
       "teams": [
         "Heat",
         "Timberwolves"
-      ]
+      ],
+      "gameDate": "2026-10-10"
     },
     {
       "videoId": "bC6z5KAyJVo",
@@ -2177,7 +3571,8 @@
       "teams": [
         "Pistons",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-10-10"
     },
     {
       "videoId": "NknJ9TdtdvQ",
@@ -2189,7 +3584,8 @@
       "teams": [
         "Hawks",
         "Pacers"
-      ]
+      ],
+      "gameDate": "2026-10-10"
     },
     {
       "videoId": "AvJQCnADBkE",
@@ -2201,7 +3597,73 @@
       "teams": [
         "Clippers",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-10-10"
+    },
+    {
+      "videoId": "sT0m98Joav4",
+      "title": "San Antonio Spurs vs Phoenix Suns - FULL GAME HIGHLIGHTS | October 10, 2026 NBA Preseason",
+      "publishedAt": "2026-10-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=sT0m98Joav4",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Suns",
+        "Spurs"
+      ],
+      "gameDate": "2026-10-10"
+    },
+    {
+      "videoId": "39CW5oguTAU",
+      "title": "Sacramento Kings vs Golden State Warriors - FULL GAME HIGHLIGHTS | October 10, 2026 NBA Preseason",
+      "publishedAt": "2026-10-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=39CW5oguTAU",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Kings"
+      ],
+      "gameDate": "2026-10-10"
+    },
+    {
+      "videoId": "ERPcR37ySeE",
+      "title": "Philadelphia 76ers vs Boston Celtics - FULL GAME HIGHLIGHTS | October 10, 2026 NBA Preseason",
+      "publishedAt": "2026-10-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ERPcR37ySeE",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "76ers"
+      ],
+      "gameDate": "2026-10-10"
+    },
+    {
+      "videoId": "RLn7GxhHtPY",
+      "title": "Detroit Pistons vs Washington Wizards - FULL GAME HIGHLIGHTS | October 10, 2026 NBA Preseason",
+      "publishedAt": "2026-10-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=RLn7GxhHtPY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Wizards"
+      ],
+      "gameDate": "2026-10-10"
+    },
+    {
+      "videoId": "1YYzAAXOkUQ",
+      "title": "Los Angeles Clippers vs Toronto Raptors - FULL GAME HIGHLIGHTS | October 10, 2026 NBA Preseason",
+      "publishedAt": "2026-10-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=1YYzAAXOkUQ",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Raptors"
+      ],
+      "gameDate": "2026-10-10"
     },
     {
       "videoId": "3Z1sVmglvPw",
@@ -2213,7 +3675,8 @@
       "teams": [
         "Bulls",
         "Grizzlies"
-      ]
+      ],
+      "gameDate": "2026-10-09"
     },
     {
       "videoId": "13GjPstCkKw",
@@ -2225,7 +3688,34 @@
       "teams": [
         "Mavericks",
         "Rockets"
-      ]
+      ],
+      "gameDate": "2026-10-09"
+    },
+    {
+      "videoId": "3F3tVH3bwKE",
+      "title": "Memphis Grizzlies vs Chicago Bulls - FULL GAME HIGHLIGHTS | October 9, 2026 NBA Preseason",
+      "publishedAt": "2026-10-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=3F3tVH3bwKE",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Grizzlies"
+      ],
+      "gameDate": "2026-10-09"
+    },
+    {
+      "videoId": "Sw4g94w_ZMM",
+      "title": "Dallas Mavericks vs Houston Rockets - FULL GAME HIGHLIGHTS | October 9, 2026 NBA Preseason",
+      "publishedAt": "2026-10-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Sw4g94w_ZMM",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Rockets"
+      ],
+      "gameDate": "2026-10-09"
     },
     {
       "videoId": "I_NJ_iY8bJ0",
@@ -2237,7 +3727,8 @@
       "teams": [
         "Lakers",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-10-08"
     },
     {
       "videoId": "VG3PNvlPOlk",
@@ -2249,7 +3740,8 @@
       "teams": [
         "Hawks",
         "Spurs"
-      ]
+      ],
+      "gameDate": "2026-10-08"
     },
     {
       "videoId": "PQ1x60Hs9RU",
@@ -2261,7 +3753,8 @@
       "teams": [
         "Knicks",
         "Wizards"
-      ]
+      ],
+      "gameDate": "2026-10-08"
     },
     {
       "videoId": "e2hJQv3M-rk",
@@ -2273,7 +3766,125 @@
       "teams": [
         "Heat",
         "Pelicans"
-      ]
+      ],
+      "gameDate": "2026-10-08"
+    },
+    {
+      "videoId": "NV-oQCrQ1hg",
+      "title": "Sacramento Kings vs Los Angeles Lakers - FULL GAME HIGHLIGHTS | October 8, 2026 NBA Preseason",
+      "publishedAt": "2026-10-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=NV-oQCrQ1hg",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Kings"
+      ],
+      "gameDate": "2026-10-08"
+    },
+    {
+      "videoId": "FmpU_RIjgtI",
+      "title": "Atlanta Hawks vs San Antonio Spurs - FULL GAME HIGHLIGHTS | October 8, 2026 NBA Preseason",
+      "publishedAt": "2026-10-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=FmpU_RIjgtI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Spurs"
+      ],
+      "gameDate": "2026-10-08"
+    },
+    {
+      "videoId": "dix2soF65Bk",
+      "title": "Philadelphia 76ers vs Brooklyn Nets - FULL GAME HIGHLIGHTS | October 8, 2026 NBA Preseason",
+      "publishedAt": "2026-10-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=dix2soF65Bk",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nets",
+        "76ers"
+      ],
+      "gameDate": "2026-10-08"
+    },
+    {
+      "videoId": "URYsPYfArWs",
+      "title": "New Orleans Pelicans vs Miami Heat - FULL GAME HIGHLIGHTS | October 8, 2026 NBA Preseason",
+      "publishedAt": "2026-10-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=URYsPYfArWs",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Heat",
+        "Pelicans"
+      ],
+      "gameDate": "2026-10-08"
+    },
+    {
+      "videoId": "as2iZ5EDsiY",
+      "title": "Golden State Warriors vs Portland Trail Blazers - FULL GAME HIGHLIGHTS | Oct 7, 2026 NBA Preseason",
+      "publishedAt": "2026-10-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=as2iZ5EDsiY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-10-07"
+    },
+    {
+      "videoId": "5WP9pekvbwg",
+      "title": "Milwaukee Bucks vs Oklahoma City Thunder - FULL GAME HIGHLIGHTS | October 7, 2026 NBA Preseason",
+      "publishedAt": "2026-10-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=5WP9pekvbwg",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "Thunder"
+      ],
+      "gameDate": "2026-10-07"
+    },
+    {
+      "videoId": "zdi9M7Z4PZo",
+      "title": "Minnesota Timberwolves vs Indiana Pacers - FULL GAME HIGHLIGHTS | October 7, 2026 NBA Preseason",
+      "publishedAt": "2026-10-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=zdi9M7Z4PZo",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pacers",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-10-07"
+    },
+    {
+      "videoId": "Y6GJJ0u4xT0",
+      "title": "Los Angeles Lakers vs Golden State Warriors - FULL GAME HIGHLIGHTS | October 6, 2026 NBA Preseason",
+      "publishedAt": "2026-10-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Y6GJJ0u4xT0",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Lakers"
+      ],
+      "gameDate": "2026-10-06"
+    },
+    {
+      "videoId": "FBEnjciJq0g",
+      "title": "New Orleans Pelicans vs Oklahoma City Thunder - FULL GAME HIGHLIGHTS | October 6, 2026 NBA Preseason",
+      "publishedAt": "2026-10-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=FBEnjciJq0g",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pelicans",
+        "Thunder"
+      ],
+      "gameDate": "2026-10-06"
     },
     {
       "videoId": "MDVEfQT8iGs",
@@ -2285,7 +3896,8 @@
       "teams": [
         "Lakers",
         "Kings"
-      ]
+      ],
+      "gameDate": "2026-10-05"
     },
     {
       "videoId": "zUy3T1QHHg8",
@@ -2297,7 +3909,8 @@
       "teams": [
         "Bucks",
         "Timberwolves"
-      ]
+      ],
+      "gameDate": "2026-10-05"
     },
     {
       "videoId": "cz-YliLKXv0",
@@ -2309,7 +3922,8 @@
       "teams": [
         "Pistons",
         "Suns"
-      ]
+      ],
+      "gameDate": "2026-10-05"
     },
     {
       "videoId": "ov4YxitmfSE",
@@ -2321,7 +3935,8 @@
       "teams": [
         "Hawks",
         "Grizzlies"
-      ]
+      ],
+      "gameDate": "2026-10-05"
     },
     {
       "videoId": "XyZNAtpEWb8",
@@ -2333,7 +3948,47 @@
       "teams": [
         "Knicks",
         "76ers"
-      ]
+      ],
+      "gameDate": "2026-10-05"
+    },
+    {
+      "videoId": "wRB9-fZBR_U",
+      "title": "Los Angeles Lakers vs Sacramento Kings - FULL GAME HIGHLIGHTS | October 5, 2026 NBA Preseason",
+      "publishedAt": "2026-10-06T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=wRB9-fZBR_U",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Kings"
+      ],
+      "gameDate": "2026-10-05"
+    },
+    {
+      "videoId": "K4JJIpT-HOc",
+      "title": "Minnesota Timberwolves vs Milwaukee Bucks - FULL GAME HIGHLIGHTS | October 5, 2026 NBA Preseason",
+      "publishedAt": "2026-10-06T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=K4JJIpT-HOc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-10-05"
+    },
+    {
+      "videoId": "_Qx0JmSGRXo",
+      "title": "New York Knicks vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | October 5, 2026 NBA Preseason",
+      "publishedAt": "2026-10-06T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=_Qx0JmSGRXo",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Knicks",
+        "76ers"
+      ],
+      "gameDate": "2026-10-05"
     },
     {
       "videoId": "5axvVQxzXU0",
@@ -2345,7 +4000,8 @@
       "teams": [
         "Warriors",
         "Clippers"
-      ]
+      ],
+      "gameDate": "2026-10-04"
     },
     {
       "videoId": "mHFSOKQTAVQ",
@@ -2357,7 +4013,34 @@
       "teams": [
         "Nuggets",
         "Jazz"
-      ]
+      ],
+      "gameDate": "2026-10-04"
+    },
+    {
+      "videoId": "wHDKhv_JGKo",
+      "title": "Golden State Warriors vs Los Angeles Clippers - FULL GAME HIGHLIGHTS | October 4, 2026 NBA Preseason",
+      "publishedAt": "2026-10-05T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=wHDKhv_JGKo",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Clippers"
+      ],
+      "gameDate": "2026-10-04"
+    },
+    {
+      "videoId": "3nSBf6Y-b4o",
+      "title": "Utah Jazz vs Denver Nuggets - FULL GAME HIGHLIGHTS | October 4, 2026 NBA Preseason",
+      "publishedAt": "2026-10-05T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=3nSBf6Y-b4o",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Jazz"
+      ],
+      "gameDate": "2026-10-04"
     },
     {
       "videoId": "y8js21UYKz4",
@@ -2369,7 +4052,8 @@
       "teams": [
         "Heat",
         "Raptors"
-      ]
+      ],
+      "gameDate": "2026-10-03"
     },
     {
       "videoId": "6U-WeGPU984",
@@ -2378,7 +4062,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=6U-WeGPU984",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-07-18"
     },
     {
       "videoId": "V7czZlyxhU0",
@@ -2387,7 +4072,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=V7czZlyxhU0",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-07-17"
     },
     {
       "videoId": "QcH-e6Ey8Yg",
@@ -2396,7 +4082,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=QcH-e6Ey8Yg",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-07-16"
     },
     {
       "videoId": "9KsnoNbQ3v0",
@@ -2405,7 +4092,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=9KsnoNbQ3v0",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-07-15"
     },
     {
       "videoId": "9RiidG7ATYM",
@@ -2414,7 +4102,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=9RiidG7ATYM",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-07-14"
     },
     {
       "videoId": "i36iw0E0OfA",
@@ -2423,7 +4112,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=i36iw0E0OfA",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-07-13"
     },
     {
       "videoId": "QC8VVijjPwc",
@@ -2432,7 +4122,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=QC8VVijjPwc",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-07-12"
     },
     {
       "videoId": "05Uzr43JZVs",
@@ -2441,7 +4132,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=05Uzr43JZVs",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-07-11"
     },
     {
       "videoId": "AGdDk5xBNdE",
@@ -2450,7 +4142,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=AGdDk5xBNdE",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-07-10"
     },
     {
       "videoId": "c33ZiMR9usk",
@@ -2459,7 +4152,8 @@
       "videoUrl": "https://www.youtube.com/watch?v=c33ZiMR9usk",
       "source": "NBA (YouTube ufficiale)",
       "contentType": "nightly_recap",
-      "teams": []
+      "teams": [],
+      "gameDate": "2026-07-09"
     }
   ]
 }
