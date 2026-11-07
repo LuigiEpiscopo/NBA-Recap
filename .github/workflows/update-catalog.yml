@@ -1,16 +1,26 @@
-
 name: Aggiorna catalogo NBA
 
 on:
   workflow_dispatch:
+  # GitHub Actions usa UTC. Quattro finestre offrono un tentativo
+  # principale e uno di recupero per ciascun aggiornamento,
+  # sia durante l'ora solare sia durante l'ora legale italiana.
+  # Ora solare (CET): 05:37, 06:37, 08:37, 09:37
+  # Ora legale (CEST): 06:37, 07:37, 09:37, 10:37
   schedule:
-    - cron: '30 5,8 * * *'
+    - cron: '37 4,5,7,8 * * *'
+
 permissions:
   contents: write
+
+concurrency:
+  group: nba-catalog-update
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Scarica repository
         uses: actions/checkout@v4
