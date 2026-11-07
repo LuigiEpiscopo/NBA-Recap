@@ -2,14 +2,15 @@
 :root{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#0b0c0f;color:#f7f8f8}header{position:sticky;top:0;background:#111317f5;padding:18px 20px;border-bottom:1px solid #292d33;z-index:2;font-weight:900;font-size:20px}header span,.accent{color:#d9ff3f}main{max-width:780px;margin:auto;padding:24px 16px 100px}h1{font-size:29px;line-height:1.1;margin:0 0 10px}p{color:#b5b8c0;line-height:1.45}.note{font-size:12px}select{background:#22252b;border:1px solid #40434b;color:white;padding:12px;border-radius:10px;max-width:100%}.control{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:20px 0}.day{margin:24px 0 12px;border-bottom:1px solid #333;padding-bottom:9px;font-weight:800}.card{background:#191b20;border:1px solid #30333a;border-radius:16px;margin:10px 0;padding:12px;display:grid;grid-template-columns:105px 1fr;gap:12px}.card img{width:105px;aspect-ratio:16/10;object-fit:cover;border-radius:9px}.card h3{font-size:14px;margin:0 0 8px}.card p{font-size:12px;margin:0 0 8px}.actions{display:flex;gap:7px;flex-wrap:wrap}.actions button{background:#d9ff3f;color:#14170d;border:0;border-radius:9px;padding:9px 11px;font-weight:800;cursor:pointer}.actions button.secondary{background:#30352b;color:#e1f4ae;border:1px solid #4e5b38}.nightly{border-color:#596a30}.nightly h3{color:#d9ff3f}.overlay{position:fixed;inset:0;background:#000e;z-index:20;display:grid;place-items:center;padding:12px}.panel{width:min(100%,850px);background:#191b20;padding:14px;border-radius:15px}.player{aspect-ratio:16/9;background:black}.player iframe{width:100%;height:100%;border:0}.close{background:#d9ff3f;border:0;padding:10px 14px;border-radius:9px;font-weight:800;float:right}#status{font-size:13px;color:#c2c6cc}
 .tabs{display:flex;gap:8px;margin:18px 0}.tabs button{flex:1;background:#22252b;color:#cdd0d6;border:1px solid #343840;border-radius:11px;padding:12px 6px;font-weight:800}.tabs button.active{background:#d9ff3f;color:#10130b}.view{display:none}.view.active{display:block}.filterbox{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}.filterbox input,.filterbox select{flex:1;min-width:130px;background:#22252b;border:1px solid #40434b;color:white;padding:12px;border-radius:10px}.loadmore{display:block;width:100%;margin:20px 0;background:#252b1e;color:#d9ff3f;border:1px solid #58683a;border-radius:12px;padding:14px;font-weight:800}.muted{color:#a5a9b2;font-size:12px}.feature{border:1px solid #46582d;background:#1b2117;border-radius:16px;padding:14px;margin:12px 0}.feature img{width:100%;max-height:270px;object-fit:cover;border-radius:12px}.feature button{background:#d9ff3f;border:0;border-radius:10px;padding:12px;font-weight:800}.card{grid-template-columns:minmax(80px,110px) 1fr}.actions button{font-size:12px}.actions button.secondary{background:#30352b}.source-toggle{display:flex;gap:6px;flex-wrap:wrap}.source-toggle button.selected{background:#d9ff3f;color:#14170d}.source-toggle button:not(.selected){background:#30352b;color:#e1f4ae;border:1px solid #4e5b38}@media(max-width:390px){.card{grid-template-columns:90px 1fr}.card img{width:90px}.actions button{padding:8px}} 
 .bottom-nav{position:fixed;bottom:0;left:0;right:0;z-index:50;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));background:rgba(17,18,22,.97);border-top:1px solid #292b31;padding:10px 16px max(10px,env(safe-area-inset-bottom));backdrop-filter:blur(18px)}.bottom-nav button{background:transparent;border:0;color:#8d929c;font:inherit;font-size:10px;font-weight:750;display:flex;flex-direction:column;align-items:center;gap:4px;padding:3px;cursor:pointer}.bottom-nav button.active{color:#d9ff3f}.nav-icon{font-size:21px;line-height:1.2}main{padding-bottom:120px}
+.team-picker{display:flex;gap:10px;overflow-x:auto;overscroll-behavior-x:contain;scroll-snap-type:x proximity;padding:10px 2px 17px;margin:12px -3px 8px;scrollbar-width:none}.team-picker::-webkit-scrollbar{display:none}.team-choice{flex:0 0 86px;scroll-snap-align:start;background:#191b20;border:1px solid #353941;color:#e5e7eb;border-radius:14px;padding:10px 5px;display:flex;align-items:center;flex-direction:column;gap:7px;font:inherit;font-size:11px;font-weight:750;cursor:pointer;min-height:103px}.team-choice img{height:57px;width:57px;object-fit:contain}.team-choice.active{border-color:#d9ff3f;background:#252d18;color:#d9ff3f}.video-hit{display:block;width:100%;border:0;background:transparent;color:inherit;text-align:left;padding:0;cursor:pointer}.video-hit img{display:block}.video-hit h3{text-decoration:none}.video-hit:focus-visible,.source-toggle button:focus-visible,.team-choice:focus-visible{outline:2px solid #d9ff3f;outline-offset:3px}.source-toggle{margin-top:10px}.source-toggle button{padding:8px 10px;font-size:11px}.card .video-hit h3{margin:0 0 8px}.card .video-hit p{margin:0 0 8px}.card{align-items:start}.card .video-hit:first-child{grid-column:1}.card .card-body{min-width:0}.card .card-body .video-hit{width:100%}body:has(#teams.active) #favorite-control,body:has(#archive.active) #favorite-control{display:none}
 </style></head><body><header>NBA <span>RECAP</span> <small style="font-size:11px;color:#b3b7bf">· SEASON 2026/27</small></header><main>
 <h1>La notte NBA.<br><span class="accent">In pochi minuti.</span></h1>
 <p>I recap della stagione, con scelta tra Ximo Pierto e NBA ufficiale.</p>
-<div class="control"><label for="favorite">★ Squadra preferita</label><select id="favorite"><option value="">Nessuna</option></select></div>
+<div class="control" id="favorite-control"><label for="favorite">★ Squadra preferita</label><select id="favorite"><option value="">Nessuna</option></select></div>
 
 <p id="status" role="status">Caricamento catalogo…</p>
 <section id="home" class="view active"><h2>Il recap della notte</h2><div id="featured"></div><h2>Highlights recenti</h2><div id="home-content"></div></section>
-<section id="teams" class="view"><h2>Le partite della squadra</h2><div class="control"><label for="team">Squadra</label><select id="team"></select></div><div id="team-content"></div><button class="loadmore" id="team-more" hidden>Mostra altre 20 partite</button></section>
+<section id="teams" class="view"><h2>Le partite della squadra</h2><div id="team-picker" class="team-picker" aria-label="Seleziona squadra"></div><div id="team-content"></div><button class="loadmore" id="team-more" hidden>Mostra altre 20 partite</button></section>
 <section id="archive" class="view"><h2>Archivio stagione</h2><div class="filterbox"><input id="search" type="search" placeholder="Cerca squadra o partita…" aria-label="Cerca"><select id="filter-team"><option value="">Tutte le squadre</option></select><select id="filter-date"><option value="">Tutte le date</option></select></div><div id="archive-content"></div><button class="loadmore" id="archive-more" hidden>Mostra altre 20 partite</button></section>
 <p class="note">I video sono riprodotti nel lettore YouTube integrato. La disponibilità dipende dalle autorizzazioni del canale.</p>
 </main><nav class="bottom-nav" aria-label="Navigazione principale"><button data-tab="home" class="active"><span class="nav-icon">⌂</span><span>Home</span></button><button data-tab="teams"><span class="nav-icon">◉</span><span>Squadre</span></button><button data-tab="archive"><span class="nav-icon">▤</span><span>Archivio</span></button></nav><script>
@@ -20,15 +21,32 @@ function day(x){if(/^\d{4}-\d{2}-\d{2}$/.test(x.gameDate||''))return x.gameDate;
 function display(d){return d==='unknown'?'Data non identificata':new Date(d+'T12:00:00Z').toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'})}
 function isXimo(x){return /ximo/i.test(x.source||'')}
 function play(id,title){const overlay=document.createElement('div');overlay.className='overlay';overlay.innerHTML=`<div class="panel"><button class="close">✕ Chiudi</button><p>${esc(title)}</p><div class="player"><iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?playsinline=1&rel=0&autoplay=1" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay;encrypted-media;picture-in-picture" allowfullscreen></iframe></div></div>`;overlay.querySelector('.close').onclick=()=>overlay.remove();overlay.onclick=e=>{if(e.target===overlay)overlay.remove()};document.body.append(overlay)}
+const TEAM_IDS={'76ers':1610612755,'Bucks':1610612749,'Bulls':1610612741,'Cavaliers':1610612739,'Celtics':1610612738,'Clippers':1610612746,'Grizzlies':1610612763,'Hawks':1610612737,'Heat':1610612748,'Hornets':1610612766,'Jazz':1610612762,'Kings':1610612758,'Knicks':1610612752,'Lakers':1610612747,'Magic':1610612753,'Mavericks':1610612742,'Nets':1610612751,'Nuggets':1610612743,'Pacers':1610612754,'Pelicans':1610612740,'Pistons':1610612765,'Raptors':1610612761,'Rockets':1610612745,'Spurs':1610612759,'Suns':1610612756,'Thunder':1610612760,'Timberwolves':1610612750,'Trail Blazers':1610612757,'Warriors':1610612744,'Wizards':1610612764};
+let chosenTeam=TEAMS.includes(select.value)?select.value:'Lakers';
+function buildTeamPicker(){
+ const root=document.getElementById('team-picker');root.replaceChildren();
+ TEAMS.forEach(t=>{const btn=document.createElement('button');btn.className='team-choice'+(t===chosenTeam?' active':'');btn.type='button';btn.setAttribute('aria-label','Mostra '+t);btn.setAttribute('aria-pressed',String(t===chosenTeam));
+ const img=document.createElement('img');img.src=`https://cdn.nba.com/logos/nba/${TEAM_IDS[t]}/primary/L/logo.svg`;img.alt='';img.loading='lazy';img.onerror=()=>{img.style.visibility='hidden'};btn.append(img);
+ const label=document.createElement('span');label.textContent=t;btn.append(label);
+ btn.onclick=()=>{chosenTeam=t;teamLimit=20;buildTeamPicker();render();root.querySelectorAll('.team-choice')[TEAMS.indexOf(t)]?.scrollIntoView({block:'nearest',inline:'nearest',behavior:'smooth'})};
+ root.append(btn)})
+}
 function card(item,alternatives=[],nightly=false){
  const el=document.createElement('article');el.className='card'+(nightly?' nightly':'');
- const cover=document.createElement('img');cover.src=`https://i.ytimg.com/vi/${encodeURIComponent(item.videoId)}/hqdefault.jpg`;cover.alt='Anteprima';cover.loading='lazy';el.append(cover);
- const right=document.createElement('div'),h=document.createElement('h3');h.textContent=(nightly?'🌙 ':'')+item.title;right.append(h);
+ const sources=[item,...alternatives];let chosen=0;
+ const openSelected=()=>{const v=sources[chosen];play(v.videoId,v.title||item.title)};
+ const coverBtn=document.createElement('button');coverBtn.type='button';coverBtn.className='video-hit';coverBtn.setAttribute('aria-label','Riproduci '+item.title);
+ const cover=document.createElement('img');cover.alt='Anteprima video';cover.loading='lazy';coverBtn.append(cover);coverBtn.onclick=openSelected;el.append(coverBtn);
+ const right=document.createElement('div');right.className='card-body';
+ const titleBtn=document.createElement('button');titleBtn.type='button';titleBtn.className='video-hit';titleBtn.onclick=openSelected;
+ const h=document.createElement('h3');h.textContent=(nightly?'🌙 ':'')+item.title;titleBtn.append(h);right.append(titleBtn);
  const p=document.createElement('p');p.textContent=nightly?'NBA Nightly Recap':(item.teams||[]).join(' · ');right.append(p);
- const sources=[item,...alternatives];const actions=document.createElement('div');actions.className='actions source-toggle';
- let chosen=0;
- const buttons=sources.map((v,i)=>{const b=document.createElement('button');b.textContent=(isXimo(v)?'Ximo Pierto':'NBA ufficiale');b.setAttribute('aria-pressed',i===0?'true':'false');b.className=i===0?'selected':'';b.onclick=()=>{chosen=i;buttons.forEach((other,j)=>{other.className=j===i?'selected':'';other.setAttribute('aria-pressed',String(j===i))});play(v.videoId,v.title||item.title)};actions.append(b);return b});
- right.append(actions);el.append(right);return el
+ const actions=document.createElement('div');actions.className='actions source-toggle';
+ const buttons=sources.map((v,i)=>{const b=document.createElement('button');b.type='button';b.textContent=isXimo(v)?'Ximo Pierto':'NBA ufficiale';b.setAttribute('aria-pressed',String(i===0));b.className=i===0?'selected':'';b.onclick=()=>{chosen=i;buttons.forEach((other,j)=>{other.className=j===i?'selected':'';other.setAttribute('aria-pressed',String(j===i))});refreshCover()};actions.append(b);return b});
+ function refreshCover(){cover.src=`https://i.ytimg.com/vi/${encodeURIComponent(sources[chosen].videoId)}/hqdefault.jpg`}
+ refreshCover();
+ if(sources.length>1)right.append(actions);
+ el.append(right);return el
 }
 let blocks=[],homeLimit=24,teamLimit=20,archiveLimit=20,activeTab='home';
 function makeBlocks(){
@@ -52,19 +70,19 @@ function render(){
  if(newest){const el=document.createElement('div');el.className='feature';const img=document.createElement('img');img.src=`https://i.ytimg.com/vi/${newest.items[0].videoId}/hqdefault.jpg`;img.alt='Ultimo Nightly Recap';el.append(img);const h=document.createElement('h3');h.textContent=newest.items[0].title;el.append(h);const btn=document.createElement('button');btn.textContent='▶ Guarda Nightly Recap';btn.onclick=()=>play(newest.items[0].videoId,newest.items[0].title);el.append(btn);featured.append(el)}
  const days=[...new Set(blocks.filter(b=>!b.nightly).map(b=>b.day))].slice(0,3);
  listTo(document.getElementById('home-content'),ranked(blocks.filter(b=>!b.nightly&&days.includes(b.day))),homeLimit);
- const team=document.getElementById('team').value;
+ const team=chosenTeam;
  const selected=ranked(blocks.filter(b=>!b.nightly&&b.teams.includes(team)));
  listTo(document.getElementById('team-content'),selected,teamLimit);document.getElementById('team-more').hidden=selected.length<=teamLimit;
  const q=document.getElementById('search').value.toLowerCase().trim(),ft=document.getElementById('filter-team').value,fd=document.getElementById('filter-date').value;
  const filtered=ranked(blocks.filter(b=>(!ft||b.teams.includes(ft))&&(!fd||b.day===fd)&&(!q||b.items.some(v=>(v.title||'').toLowerCase().includes(q))||b.teams.some(t=>t.toLowerCase().includes(q)))));
  listTo(document.getElementById('archive-content'),filtered,archiveLimit);document.getElementById('archive-more').hidden=filtered.length<=archiveLimit;
 }
-const teamSelect=document.getElementById('team'),filterTeam=document.getElementById('filter-team');
-TEAMS.forEach(t=>{teamSelect.add(new Option(t,t));filterTeam.add(new Option(t,t))});
-teamSelect.value=TEAMS.includes(select.value)?select.value:'Lakers';
+const filterTeam=document.getElementById('filter-team');
+TEAMS.forEach(t=>filterTeam.add(new Option(t,t)));
+buildTeamPicker();
 document.querySelectorAll('[data-tab]').forEach(b=>b.onclick=()=>{activeTab=b.dataset.tab;document.querySelectorAll('[data-tab]').forEach(x=>x.classList.toggle('active',x===b));document.querySelectorAll('.view').forEach(x=>x.classList.toggle('active',x.id===activeTab));render();window.scrollTo(0,0)});
-select.onchange=()=>{localStorage.setItem('nba-recap-favorite',select.value);if(TEAMS.includes(select.value))teamSelect.value=select.value;render()};
-teamSelect.onchange=()=>{teamLimit=20;render()};
+select.onchange=()=>{localStorage.setItem('nba-recap-favorite',select.value);if(TEAMS.includes(select.value)){chosenTeam=select.value;buildTeamPicker();}render()};
+
 for(const id of ['search','filter-team','filter-date'])document.getElementById(id).addEventListener(id==='search'?'input':'change',()=>{archiveLimit=20;render()});
 document.getElementById('team-more').onclick=()=>{teamLimit+=20;render()};
 document.getElementById('archive-more').onclick=()=>{archiveLimit+=20;render()};
