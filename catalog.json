@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-11-06T13:10:56.704636+00:00",
+  "generatedAt": "2026-11-07T07:41:05.489393+00:00",
   "items": [
+    {
+      "videoId": "Tl63S0C6XhI",
+      "title": "TRAIL BLAZERS AT LAKERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Tl63S0C6XhI",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Trail Blazers"
+      ]
+    },
+    {
+      "videoId": "ArdOCfDXZdI",
+      "title": "TIMBERWOLVES at PELICANS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ArdOCfDXZdI",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Pelicans"
+      ]
+    },
+    {
+      "videoId": "urZbyAoCBNU",
+      "title": "THUNDER at GRIZZLIES | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=urZbyAoCBNU",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Grizzlies",
+        "Thunder"
+      ]
+    },
+    {
+      "videoId": "A_4SYcSbEbQ",
+      "title": "RAPTORS at BUCKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=A_4SYcSbEbQ",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "Raptors"
+      ]
+    },
+    {
+      "videoId": "mQUHy5tn0Qc",
+      "title": "JAZZ at MAVERICKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=mQUHy5tn0Qc",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Jazz"
+      ]
+    },
+    {
+      "videoId": "t1c8FrDibW0",
+      "title": "76ERS at CAVALIERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=t1c8FrDibW0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "76ers"
+      ]
+    },
+    {
+      "videoId": "V0JGW8-fCAw",
+      "title": "CELTICS at HORNETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=V0JGW8-fCAw",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Hornets"
+      ]
+    },
+    {
+      "videoId": "1qP76MUsSrc",
+      "title": "WIZARDS at HAWKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=1qP76MUsSrc",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Wizards"
+      ]
+    },
     {
       "videoId": "ufkeiEsJrx0",
       "title": "HEAT at WARRIORS | FULL GAME HIGHLIGHTS | November 5, 2026",
