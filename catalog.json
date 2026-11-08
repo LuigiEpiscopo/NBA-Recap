@@ -1,6 +1,172 @@
 {
-  "generatedAt": "2026-11-07T22:32:31.056523+00:00",
+  "generatedAt": "2026-11-08T07:51:12.654222+00:00",
   "items": [
+    {
+      "videoId": "NAotzr5y2SI",
+      "title": "NBA's Nightly Recap | November 7, 2026",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=NAotzr5y2SI",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "_UX-g0axVCQ",
+      "title": "EXTENDED: MAGIC at WARRIORS | FULL GAME HIGHLIGHTS | November 7, 2026",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=_UX-g0axVCQ",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Magic"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "nUVK3PN4f8s",
+      "title": "EXTENDED: KNICKS at CAVALIERS | FULL GAME HIGHLIGHTS | November 7, 2026",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=nUVK3PN4f8s",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "RSMUC3aHIIk",
+      "title": "SPURS at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | November 7, 2026",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=RSMUC3aHIIk",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Trail Blazers",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "4ssDccjpiPU",
+      "title": "MAGIC at WARRIORS | FULL GAME HIGHLIGHTS | November 7, 2026",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=4ssDccjpiPU",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Magic"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "LTm7IPWNZYU",
+      "title": "ROCKETS at SUNS | FULL GAME HIGHLIGHTS | November 7, 2026",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=LTm7IPWNZYU",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Suns"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "4bs19BIY_VI",
+      "title": "WIZARDS at THUNDER | FULL GAME HIGHLIGHTS | November 7, 2026",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=4bs19BIY_VI",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Thunder",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "s-moVu73XM0",
+      "title": "KNICKS at CAVALIERS | FULL GAME HIGHLIGHTS | November 7, 2026",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=s-moVu73XM0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "_vBCHO-6KzM",
+      "title": "NETS at HAWKS | FULL GAME HIGHLIGHTS | November 7, 2026",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=_vBCHO-6KzM",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Nets"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "1-yDggSIG34",
+      "title": "NUGGETS at PACERS | FULL GAME HIGHLIGHTS | November 7, 2026",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=1-yDggSIG34",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Pacers"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "0IhVWLo00tY",
+      "title": "Orlando Magic vs Golden State Warriors - FULL GAME HIGHLIGHTS | November 7, 2026 NBA Season",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=0IhVWLo00tY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Magic"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "5FeIzqrHyI0",
+      "title": "Houston Rockets vs Phoenix Suns - FULL GAME HIGHLIGHTS | November 7, 2026 NBA Season",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=5FeIzqrHyI0",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Suns"
+      ],
+      "gameDate": "2026-11-07"
+    },
+    {
+      "videoId": "AsXaA0828mk",
+      "title": "New York Knicks vs Cleveland Cavaliers - FULL GAME HIGHLIGHTS | November 7, 2026 NBA Season",
+      "publishedAt": "2026-11-08T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=AsXaA0828mk",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-07"
+    },
     {
       "videoId": "Tl63S0C6XhI",
       "title": "TRAIL BLAZERS AT LAKERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
