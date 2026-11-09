@@ -1,6 +1,159 @@
 {
-  "generatedAt": "2026-11-08T11:28:10.046331+00:00",
+  "generatedAt": "2026-11-09T13:16:01.479255+00:00",
   "items": [
+    {
+      "videoId": "lZ6E7rE7mpw",
+      "title": "NBA's Nightly Recap | November 8, 2026",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=lZ6E7rE7mpw",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "dY-RkRu3MpA",
+      "title": "HEAT at KINGS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=dY-RkRu3MpA",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Heat",
+        "Kings"
+      ],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "BsDNa_7PTnc",
+      "title": "PELICANS at CLIPPERS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=BsDNa_7PTnc",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Pelicans"
+      ],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "Axe6ICibvU4",
+      "title": "CELTICS at BUCKS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Axe6ICibvU4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Bucks"
+      ],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "x4SzsIG5nwo",
+      "title": "NETS at MAVERICKS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=x4SzsIG5nwo",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nets",
+        "Mavericks"
+      ],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "GpgL8nz5AYQ",
+      "title": "JAZZ at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=GpgL8nz5AYQ",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "shKl4TLb28Y",
+      "title": "LAKERS at PISTONS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=shKl4TLb28Y",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Lakers"
+      ],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "5n83r-MESag",
+      "title": "76ERS at BULLS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=5n83r-MESag",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "76ers"
+      ],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "r5DBGgqQL0w",
+      "title": "Brooklyn Nets vs Dallas Mavericks - FULL GAME HIGHLIGHTS | November 8, 2026 NBA Season",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=r5DBGgqQL0w",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nets",
+        "Mavericks"
+      ],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "VXycx56RFBw",
+      "title": "Utah Jazz vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | November 8, 2026 NBA Season",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=VXycx56RFBw",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "AuiAQwZg_us",
+      "title": "Los Angeles Lakers vs Detroit Pistons - FULL GAME HIGHLIGHTS | November 8, 2026 NBA Season",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=AuiAQwZg_us",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Lakers"
+      ],
+      "gameDate": "2026-11-08"
+    },
+    {
+      "videoId": "qdGGUDWobok",
+      "title": "Philadelphia 76ers vs Chicago Bulls - FULL GAME HIGHLIGHTS | November 8, 2026 NBA Season",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=qdGGUDWobok",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "76ers"
+      ],
+      "gameDate": "2026-11-08"
+    },
     {
       "videoId": "NAotzr5y2SI",
       "title": "NBA's Nightly Recap | November 7, 2026",
