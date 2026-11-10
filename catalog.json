@@ -1,6 +1,198 @@
 {
-  "generatedAt": "2026-11-09T13:16:01.479255+00:00",
+  "generatedAt": "2026-11-10T12:54:06.847941+00:00",
   "items": [
+    {
+      "videoId": "ETVUBCD7-Bk",
+      "title": "NBA's Nightly Recap | November 9, 2026",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ETVUBCD7-Bk",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "y-jR93AytPc",
+      "title": "EXTENDED: PACERS at MAVERICKS | FULL GAME HIGHLIGHTS | November 9, 2026",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=y-jR93AytPc",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Pacers"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "HUaf_y2R-Jw",
+      "title": "PELICANS at WARRIORS | FULL GAME HIGHLIGHTS | November 9, 2026",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=HUaf_y2R-Jw",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Pelicans"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "fZRq0ZJQa2I",
+      "title": "SPURS at SUNS | FULL GAME HIGHLIGHTS | November 9, 2026",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=fZRq0ZJQa2I",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Suns",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "3rdz4PrUbMs",
+      "title": "NUGGETS at ROCKETS | FULL GAME HIGHLIGHTS | November 9, 2026",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=3rdz4PrUbMs",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Rockets"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "RAPmPkOUf20",
+      "title": "PACERS at MAVERICKS | FULL GAME HIGHLIGHTS | November 9, 2026",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=RAPmPkOUf20",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Pacers"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "djG6fUgNcdE",
+      "title": "GRIZZLIES at RAPTORS | FULL GAME HIGHLIGHTS | November 9, 2026",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=djG6fUgNcdE",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Grizzlies",
+        "Raptors"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "ZKUHnwGRazM",
+      "title": "WIZARDS at PISTONS | FULL GAME HIGHLIGHTS | November 9, 2026",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ZKUHnwGRazM",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "2OZwNHo0o3Y",
+      "title": "CAVALIERS at HORNETS | FULL GAME HIGHLIGHTS | November 9, 2026",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=2OZwNHo0o3Y",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hornets",
+        "Cavaliers"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "FkybKoRhdPs",
+      "title": "LAKERS at HAWKS | FULL GAME HIGHLIGHTS | November 9, 2026",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=FkybKoRhdPs",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Lakers"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "6MbqPBXZwfI",
+      "title": "New Orleans Pelicans vs Golden State Warriors - FULL GAME HIGHLIGHTS | November 9, 2026 NBA Season",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=6MbqPBXZwfI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Pelicans"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "UEgxZtnIGXo",
+      "title": "San Antonio Spurs vs Phoenix Suns - FULL GAME HIGHLIGHTS | November 9, 2026 NBA Season",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=UEgxZtnIGXo",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Suns",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "cYABMFh14FY",
+      "title": "Indiana Pacers vs Dallas Mavericks - FULL GAME HIGHLIGHTS | November 9, 2026 NBA Season",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=cYABMFh14FY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Pacers"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "3UEFQ-BZIGs",
+      "title": "Denver Nuggets vs Houston Rockets - FULL GAME HIGHLIGHTS | November 9, 2026 NBA Season",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=3UEFQ-BZIGs",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Rockets"
+      ],
+      "gameDate": "2026-11-09"
+    },
+    {
+      "videoId": "714BgbNw0Ow",
+      "title": "Los Angeles Lakers vs Atlanta Hawks - FULL GAME HIGHLIGHTS | November 9, 2026 NBA Season",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=714BgbNw0Ow",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Lakers"
+      ],
+      "gameDate": "2026-11-09"
+    },
     {
       "videoId": "lZ6E7rE7mpw",
       "title": "NBA's Nightly Recap | November 8, 2026",
