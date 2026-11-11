@@ -1,6 +1,133 @@
 {
-  "generatedAt": "2026-11-10T12:54:06.847941+00:00",
+  "generatedAt": "2026-11-11T12:04:34.096180+00:00",
   "items": [
+    {
+      "videoId": "gCN7Eho3qc4",
+      "title": "NBA's Nightly Recap | November 10, 2026",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=gCN7Eho3qc4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-10"
+    },
+    {
+      "videoId": "KQzofNjz7lI",
+      "title": "BUCKS at KNICKS | FULL GAME HIGHLIGHTS | November 10, 2026",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=KQzofNjz7lI",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-10"
+    },
+    {
+      "videoId": "ecqeLJ32ZhA",
+      "title": "CELTICS at 76ERS | FULL GAME HIGHLIGHTS | November 10, 2026",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ecqeLJ32ZhA",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "76ers"
+      ],
+      "gameDate": "2026-11-10"
+    },
+    {
+      "videoId": "cPkfXdQbt7k",
+      "title": "CLIPPERS at SUNS | FULL GAME HIGHLIGHTS | November 10, 2026",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=cPkfXdQbt7k",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Suns"
+      ],
+      "gameDate": "2026-11-10"
+    },
+    {
+      "videoId": "5hGbJnpnGQg",
+      "title": "HEAT at JAZZ | FULL GAME HIGHLIGHTS | November 10, 2026",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=5hGbJnpnGQg",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Heat",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-10"
+    },
+    {
+      "videoId": "7j_QT3kVKYE",
+      "title": "MAGIC at KINGS | FULL GAME HIGHLIGHTS | November 10, 2026",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=7j_QT3kVKYE",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Magic",
+        "Kings"
+      ],
+      "gameDate": "2026-11-10"
+    },
+    {
+      "videoId": "WtmaQ-mk6Ls",
+      "title": "THUNDER at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | November 10, 2026",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=WtmaQ-mk6Ls",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Thunder",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-10"
+    },
+    {
+      "videoId": "whfCTj-HPDs",
+      "title": "Oklahoma City Thunder vs Portland Trail Blazers - FULL GAME HIGHLIGHTS | Nov 10, 2026 NBA Season",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=whfCTj-HPDs",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Thunder",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-10"
+    },
+    {
+      "videoId": "ckRBA0WHU2M",
+      "title": "Boston Celtics vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | November 10, 2026 NBA Season",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ckRBA0WHU2M",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "76ers"
+      ],
+      "gameDate": "2026-11-10"
+    },
+    {
+      "videoId": "PWRuZ2P5uYg",
+      "title": "Milwaukee Bucks vs New York Knicks - FULL GAME HIGHLIGHTS | November 10, 2026 NBA Season",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=PWRuZ2P5uYg",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-10"
+    },
     {
       "videoId": "ETVUBCD7-Bk",
       "title": "NBA's Nightly Recap | November 9, 2026",
