@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-11-12T13:08:03.253046+00:00",
+  "generatedAt": "2026-11-13T12:31:41.939334+00:00",
   "items": [
+    {
+      "videoId": "FWyvg-ZC1XU",
+      "title": "NBA's Nightly Recap | November 12, 2026",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=FWyvg-ZC1XU",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-12"
+    },
+    {
+      "videoId": "BfKYY2IJ3Oc",
+      "title": "RAPTORS at 76ERS | FULL GAME HIGHLIGHTS | November 12, 2026",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=BfKYY2IJ3Oc",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "76ers",
+        "Raptors"
+      ],
+      "gameDate": "2026-11-12"
+    },
+    {
+      "videoId": "a917kl3-0Qo",
+      "title": "MAVERICKS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 12, 2026",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=a917kl3-0Qo",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-11-12"
+    },
+    {
+      "videoId": "vk9wsWTp5Ns",
+      "title": "PISTONS at WIZARDS | FULL GAME HIGHLIGHTS | November 12, 2026",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=vk9wsWTp5Ns",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-12"
+    },
+    {
+      "videoId": "UVJok7D2Xhc",
+      "title": "HORNETS at SUNS | FULL GAME HIGHLIGHTS | November 12, 2026",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=UVJok7D2Xhc",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hornets",
+        "Suns"
+      ],
+      "gameDate": "2026-11-12"
+    },
+    {
+      "videoId": "-FH7O-Iw_AM",
+      "title": "Dallas Mavericks vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | November 12, 2026 NBA Season",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=-FH7O-Iw_AM",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-11-12"
+    },
+    {
+      "videoId": "uaRHac5O9UA",
+      "title": "Toronto Raptors vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | November 12, 2026 NBA Season",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=uaRHac5O9UA",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "76ers",
+        "Raptors"
+      ],
+      "gameDate": "2026-11-12"
+    },
     {
       "videoId": "iQSno49cyIE",
       "title": "NBA's Nightly Recap | November 11, 2026",
