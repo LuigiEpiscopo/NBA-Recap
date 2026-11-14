@@ -1,6 +1,198 @@
 {
-  "generatedAt": "2026-11-13T12:31:41.939334+00:00",
+  "generatedAt": "2026-11-14T11:41:38.993563+00:00",
   "items": [
+    {
+      "videoId": "VH9MaXXfG1A",
+      "title": "NBA's Nightly Recap | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=VH9MaXXfG1A",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "O_xEiV3iQJY",
+      "title": "BUCKS AT MAGIC | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=O_xEiV3iQJY",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "Magic"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "p1ZbMS1_Aww",
+      "title": "KNICKS AT PACERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=p1ZbMS1_Aww",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pacers",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "pW8Zq151Q_U",
+      "title": "GRIZZLIES AT PELICANS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=pW8Zq151Q_U",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Grizzlies",
+        "Pelicans"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "UM4WvtmbJGM",
+      "title": "CAVALIERS AT HEAT | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=UM4WvtmbJGM",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Heat"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "0AKvkuMffG4",
+      "title": "HAWKS AT BULLS | EMIRATES NBA CUP 🏆  | FULL GAME HIGHLIGHTS | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=0AKvkuMffG4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Bulls"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "BxIKfpJRZIo",
+      "title": "JAZZ AT ROCKETS | EMIRATES NBA CUP 🏆  | FULL GAME HIGHLIGHTS | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=BxIKfpJRZIo",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "0cL2tTuLJJk",
+      "title": "WARRIORS AT SPURS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=0cL2tTuLJJk",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "s8XSacjQ1r0",
+      "title": "TRAIL BLAZERS AT KINGS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=s8XSacjQ1r0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Trail Blazers",
+        "Kings"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "xohvOmDZ_wg",
+      "title": "THUNDER AT CLIPPERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=xohvOmDZ_wg",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "2lUMFan8r_0",
+      "title": "EXTENDED: THUNDER at CLIPPERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=2lUMFan8r_0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "g9XFCdHTSwE",
+      "title": "Golden State Warriors vs San Antonio Spurs - FULL GAME HIGHLIGHTS | November 13, 2026 NBA Season",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=g9XFCdHTSwE",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "QiawA6w_3gk",
+      "title": "Utah Jazz vs Houston Rockets - FULL GAME HIGHLIGHTS | November 13, 2026 NBA Season",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=QiawA6w_3gk",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "hJeDdJLw91g",
+      "title": "Cleveland Cavaliers vs Miami Heat - FULL GAME HIGHLIGHTS | November 13, 2026 NBA Season",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=hJeDdJLw91g",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Heat"
+      ],
+      "gameDate": "2026-11-13"
+    },
+    {
+      "videoId": "GfzAXPxCWUI",
+      "title": "New York Knicks vs Indiana Pacers - FULL GAME HIGHLIGHTS | November 13, 2026 NBA Season",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=GfzAXPxCWUI",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pacers",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-13"
+    },
     {
       "videoId": "FWyvg-ZC1XU",
       "title": "NBA's Nightly Recap | November 12, 2026",
