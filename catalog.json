@@ -1,6 +1,120 @@
 {
-  "generatedAt": "2026-11-14T11:41:38.993563+00:00",
+  "generatedAt": "2026-11-15T12:10:55.837920+00:00",
   "items": [
+    {
+      "videoId": "wBWGQAdIMmw",
+      "title": "NBA's Nightly Recap | November 14, 2026",
+      "publishedAt": "2026-11-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=wBWGQAdIMmw",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-14"
+    },
+    {
+      "videoId": "i2BFzNvtr6Y",
+      "title": "NUGGETS at PELICANS | FULL GAME HIGHLIGHTS | November 14, 2026",
+      "publishedAt": "2026-11-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=i2BFzNvtr6Y",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Pelicans"
+      ],
+      "gameDate": "2026-11-14"
+    },
+    {
+      "videoId": "q1grkFp0K8I",
+      "title": "MAVERICKS at CAVALIERS | FULL GAME HIGHLIGHTS | November 14, 2026",
+      "publishedAt": "2026-11-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=q1grkFp0K8I",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Mavericks"
+      ],
+      "gameDate": "2026-11-14"
+    },
+    {
+      "videoId": "BJc9aQLcbAo",
+      "title": "BULLS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 14, 2026",
+      "publishedAt": "2026-11-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=BJc9aQLcbAo",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-11-14"
+    },
+    {
+      "videoId": "Ti118u15fwA",
+      "title": "NETS at GRIZZLIES | FULL GAME HIGHLIGHTS | November 14, 2026",
+      "publishedAt": "2026-11-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Ti118u15fwA",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nets",
+        "Grizzlies"
+      ],
+      "gameDate": "2026-11-14"
+    },
+    {
+      "videoId": "X4Vj94oz9K4",
+      "title": "PISTONS at HEAT | FULL GAME HIGHLIGHTS | November 14, 2026",
+      "publishedAt": "2026-11-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=X4Vj94oz9K4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Heat"
+      ],
+      "gameDate": "2026-11-14"
+    },
+    {
+      "videoId": "VVwHBJeHioM",
+      "title": "Detroit Pistons vs Miami Heat - FULL GAME HIGHLIGHTS | November 14, 2026 NBA Season",
+      "publishedAt": "2026-11-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=VVwHBJeHioM",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Heat"
+      ],
+      "gameDate": "2026-11-14"
+    },
+    {
+      "videoId": "fst6n_cfnGw",
+      "title": "Chicago Bulls vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | November 14, 2026 NBA Season",
+      "publishedAt": "2026-11-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=fst6n_cfnGw",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-11-14"
+    },
+    {
+      "videoId": "YZPQH7r7EzE",
+      "title": "Dallas Mavericks vs Cleveland Cavaliers - FULL GAME HIGHLIGHTS | November 14, 2026 NBA Season",
+      "publishedAt": "2026-11-15T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=YZPQH7r7EzE",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Mavericks"
+      ],
+      "gameDate": "2026-11-14"
+    },
     {
       "videoId": "VH9MaXXfG1A",
       "title": "NBA's Nightly Recap | November 13, 2026",
