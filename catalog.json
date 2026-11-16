@@ -1,6 +1,185 @@
 {
-  "generatedAt": "2026-11-15T12:10:55.837920+00:00",
+  "generatedAt": "2026-11-16T13:04:04.414312+00:00",
   "items": [
+    {
+      "videoId": "ZaTnOxYqJNk",
+      "title": "NBA's Nightly Recap | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ZaTnOxYqJNk",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "DAyN_i0k368",
+      "title": "PACERS at 76ERS | FULL GAME HIGHLIGHTS | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=DAyN_i0k368",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pacers",
+        "76ers"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "ITflm59NiYY",
+      "title": "LAKERS at SUNS | FULL GAME HIGHLIGHTS | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ITflm59NiYY",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Suns"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "1fv6iQMCaiM",
+      "title": "HORNETS at CLIPPERS | FULL GAME HIGHLIGHTS | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=1fv6iQMCaiM",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hornets",
+        "Clippers"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "8npj6HXy63Y",
+      "title": "SPURS at JAZZ | FULL GAME HIGHLIGHTS | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=8npj6HXy63Y",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Spurs",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "8IDrPqujvI8",
+      "title": "MAVERICKS at CELTICS | FULL GAME HIGHLIGHTS | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=8IDrPqujvI8",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Mavericks"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "3NwHRCdqd28",
+      "title": "KNICKS at RAPTORS | FULL GAME HIGHLIGHTS | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=3NwHRCdqd28",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Knicks",
+        "Raptors"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "AJWvD8hSGz8",
+      "title": "ROCKETS at WIZARDS | FULL GAME HIGHLIGHTS | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=AJWvD8hSGz8",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "YAzJbrPXO5c",
+      "title": "HAWKS at BUCKS | FULL GAME HIGHLIGHTS | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=YAzJbrPXO5c",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Bucks"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "BAPWoWuixRs",
+      "title": "EXTENDED: KNICKS at RAPTORS | FULL GAME HIGHLIGHTS | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=BAPWoWuixRs",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Knicks",
+        "Raptors"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "1RKyPcfiuQY",
+      "title": "THUNDER at KINGS | FULL GAME HIGHLIGHTS | November 15, 2026",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=1RKyPcfiuQY",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Thunder",
+        "Kings"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "M5Wl_C2R5oY",
+      "title": "Houston Rockets vs Washington Wizards - FULL GAME HIGHLIGHTS | November 15, 2026 NBA Season",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=M5Wl_C2R5oY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "R1XBOfTf5kg",
+      "title": "Los Angeles Lakers vs Phoenix Suns - FULL GAME HIGHLIGHTS | November 15, 2026 NBA Season",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=R1XBOfTf5kg",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Suns"
+      ],
+      "gameDate": "2026-11-15"
+    },
+    {
+      "videoId": "JH8xHGIHH-k",
+      "title": "Indiana Pacers vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | November 15, 2026 NBA Season",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=JH8xHGIHH-k",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pacers",
+        "76ers"
+      ],
+      "gameDate": "2026-11-15"
+    },
     {
       "videoId": "wBWGQAdIMmw",
       "title": "NBA's Nightly Recap | November 14, 2026",
