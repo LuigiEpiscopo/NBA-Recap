@@ -1,6 +1,185 @@
 {
-  "generatedAt": "2026-11-16T13:04:04.414312+00:00",
+  "generatedAt": "2026-11-17T13:45:34.910518+00:00",
   "items": [
+    {
+      "videoId": "Iuykco0mBYQ",
+      "title": "NBA's Nightly Recap | November 16, 2026",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Iuykco0mBYQ",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "PZbSOMpMelI",
+      "title": "MAGIC at CELTICS | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=PZbSOMpMelI",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Magic"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "I3RDMfKOLhI",
+      "title": "GRIZZLIES at WIZARDS | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=I3RDMfKOLhI",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Grizzlies",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "2gG-akfMgqA",
+      "title": "BULLS at CAVALIERS | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=2gG-akfMgqA",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Cavaliers"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "cnD8p6RBDsI",
+      "title": "ROCKETS at HEAT | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=cnD8p6RBDsI",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Heat"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "zB-CNQugpmE",
+      "title": "76ERS at NETS | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=zB-CNQugpmE",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nets",
+        "76ers"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "_bk-bs9Tzwo",
+      "title": "WARRIORS at PELICANS | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=_bk-bs9Tzwo",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Pelicans"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "VeojQdEJjE0",
+      "title": "TRAIL BLAZERS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=VeojQdEJjE0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "-yB3YX7fJZE",
+      "title": "SUNS at NUGGETS | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=-yB3YX7fJZE",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Suns"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "RA7aisq6tjc",
+      "title": "Portland Trail Blazers vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | November 16, 2026 NBA Sea",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=RA7aisq6tjc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "nCXrR9GTDTg",
+      "title": "Golden State Warriors vs New Orleans Pelicans - FULL GAME HIGHLIGHTS | November 16, 2026 NBA Season",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=nCXrR9GTDTg",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Pelicans"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "Vpq9XYuMoJc",
+      "title": "Philadelphia 76ers vs Brooklyn Nets - FULL GAME HIGHLIGHTS | November 16, 2026 NBA Season",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Vpq9XYuMoJc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nets",
+        "76ers"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "FP3Q3X_yVzQ",
+      "title": "Houston Rockets vs Miami Heat - FULL GAME HIGHLIGHTS | November 16, 2026 NBA Season",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=FP3Q3X_yVzQ",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Heat"
+      ],
+      "gameDate": "2026-11-16"
+    },
+    {
+      "videoId": "E9-sXbuTsXk",
+      "title": "Chicago Bulls vs Cleveland Cavaliers - FULL GAME HIGHLIGHTS | November 16, 2026 NBA Season",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=E9-sXbuTsXk",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Cavaliers"
+      ],
+      "gameDate": "2026-11-16"
+    },
     {
       "videoId": "ZaTnOxYqJNk",
       "title": "NBA's Nightly Recap | November 15, 2026",
