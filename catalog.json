@@ -1,6 +1,107 @@
 {
-  "generatedAt": "2026-11-17T13:45:34.910518+00:00",
+  "generatedAt": "2026-11-18T13:21:02.812271+00:00",
   "items": [
+    {
+      "videoId": "UlFNmd1e_Q4",
+      "title": "NBA's Nightly Recap | November 17, 2026",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=UlFNmd1e_Q4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-17"
+    },
+    {
+      "videoId": "ZAVq6pBW_DE",
+      "title": "KNICKS at RAPTORS | FULL GAME HIGHLIGHTS | November 17, 2026",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ZAVq6pBW_DE",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Knicks",
+        "Raptors"
+      ],
+      "gameDate": "2026-11-17"
+    },
+    {
+      "videoId": "ZagtmnXswv4",
+      "title": "PISTONS at SPURS | FULL GAME HIGHLIGHTS | November 17, 2026",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ZagtmnXswv4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-17"
+    },
+    {
+      "videoId": "d91Hd6wz5ls",
+      "title": "TRAIL BLAZERS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 17, 2026",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=d91Hd6wz5ls",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-17"
+    },
+    {
+      "videoId": "syohEge7c5o",
+      "title": "JAZZ at CLIPPERS | FULL GAME HIGHLIGHTS | November 17, 2026",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=syohEge7c5o",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-17"
+    },
+    {
+      "videoId": "3Glb4WcCasw",
+      "title": "HORNETS at LAKERS | FULL GAME HIGHLIGHTS | November 17, 2026",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=3Glb4WcCasw",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hornets",
+        "Lakers"
+      ],
+      "gameDate": "2026-11-17"
+    },
+    {
+      "videoId": "_4s2ngVdq10",
+      "title": "Portland Trail Blazers vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | Nov 17, 2026 NBA Season",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=_4s2ngVdq10",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-17"
+    },
+    {
+      "videoId": "J2szpSH66_I",
+      "title": "Detroit Pistons vs San Antonio Spurs - FULL GAME HIGHLIGHTS | November 17, 2026 NBA Season",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=J2szpSH66_I",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-17"
+    },
     {
       "videoId": "Iuykco0mBYQ",
       "title": "NBA's Nightly Recap | November 16, 2026",
