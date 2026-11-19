@@ -1,6 +1,120 @@
 {
-  "generatedAt": "2026-11-18T13:21:02.812271+00:00",
+  "generatedAt": "2026-11-19T13:46:07.817720+00:00",
   "items": [
+    {
+      "videoId": "-BaefWqnu98",
+      "title": "NBA's Nightly Recap | November 18, 2026",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=-BaefWqnu98",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-18"
+    },
+    {
+      "videoId": "xmYokXvSaHI",
+      "title": "ROCKETS at PACERS | FULL GAME HIGHLIGHTS | November 18, 2026",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=xmYokXvSaHI",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Pacers"
+      ],
+      "gameDate": "2026-11-18"
+    },
+    {
+      "videoId": "KGej9CyFqGQ",
+      "title": "76ERS at MAGIC | FULL GAME HIGHLIGHTS | November 18, 2026",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=KGej9CyFqGQ",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Magic",
+        "76ers"
+      ],
+      "gameDate": "2026-11-18"
+    },
+    {
+      "videoId": "43Up7wY4og4",
+      "title": "BUCKS at HEAT | FULL GAME HIGHLIGHTS | November 18, 2026",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=43Up7wY4og4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Heat",
+        "Bucks"
+      ],
+      "gameDate": "2026-11-18"
+    },
+    {
+      "videoId": "UjM4Za3cAmU",
+      "title": "WIZARDS at RAPTORS | FULL GAME HIGHLIGHTS | November 18, 2026",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=UjM4Za3cAmU",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Raptors",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-18"
+    },
+    {
+      "videoId": "MYYhHXNgSnM",
+      "title": "HAWKS at THUNDER | FULL GAME HIGHLIGHTS | November 18, 2026",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=MYYhHXNgSnM",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-18"
+    },
+    {
+      "videoId": "vI7mK5Xx9D8",
+      "title": "SUNS at KINGS | FULL GAME HIGHLIGHTS | November 18, 2026",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=vI7mK5Xx9D8",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Suns",
+        "Kings"
+      ],
+      "gameDate": "2026-11-18"
+    },
+    {
+      "videoId": "HX-mNTYf4x8",
+      "title": "CELTICS at NUGGETS | FULL GAME HIGHLIGHTS | November 18, 2026",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=HX-mNTYf4x8",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Nuggets"
+      ],
+      "gameDate": "2026-11-18"
+    },
+    {
+      "videoId": "VydiM2VuElM",
+      "title": "JAZZ at LAKERS | FULL GAME HIGHLIGHTS | November 18, 2026",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=VydiM2VuElM",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-18"
+    },
     {
       "videoId": "UlFNmd1e_Q4",
       "title": "NBA's Nightly Recap | November 17, 2026",
