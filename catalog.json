@@ -1,6 +1,120 @@
 {
-  "generatedAt": "2026-11-19T13:46:07.817720+00:00",
+  "generatedAt": "2026-11-20T13:29:09.962747+00:00",
   "items": [
+    {
+      "videoId": "-UedEoekVC8",
+      "title": "NBA's Nightly Recap | November 19, 2026",
+      "publishedAt": "2026-11-20T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=-UedEoekVC8",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-19"
+    },
+    {
+      "videoId": "LH2Y8iaa7Nk",
+      "title": "CLIPPERS at SPURS | FULL GAME HIGHLIGHTS | November 19, 2026",
+      "publishedAt": "2026-11-20T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=LH2Y8iaa7Nk",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-19"
+    },
+    {
+      "videoId": "kldOvV4O2Zg",
+      "title": "WARRIORS at GRIZZLIES | FULL GAME HIGHLIGHTS | November 19, 2026",
+      "publishedAt": "2026-11-20T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=kldOvV4O2Zg",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Grizzlies"
+      ],
+      "gameDate": "2026-11-19"
+    },
+    {
+      "videoId": "e1h0kBJPKz4",
+      "title": "TRAIL BLAZERS at BUCKS | FULL GAME HIGHLIGHTS | November 19, 2026",
+      "publishedAt": "2026-11-20T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=e1h0kBJPKz4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-19"
+    },
+    {
+      "videoId": "wSv_WEGBiBE",
+      "title": "KNICKS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 19, 2026",
+      "publishedAt": "2026-11-20T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=wSv_WEGBiBE",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-19"
+    },
+    {
+      "videoId": "rxP19PslBUw",
+      "title": "Portland Trail Blazers vs Milwaukee Bucks - FULL GAME HIGHLIGHTS | November 19, 2026 NBA Season",
+      "publishedAt": "2026-11-20T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=rxP19PslBUw",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-19"
+    },
+    {
+      "videoId": "Lken71vEc7s",
+      "title": "LA Clippers vs San Antonio Spurs - FULL GAME HIGHLIGHTS | November 19, 2026 NBA Season",
+      "publishedAt": "2026-11-20T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Lken71vEc7s",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-19"
+    },
+    {
+      "videoId": "ZwgBIqGt8U4",
+      "title": "Golden State Warriors vs Memphis Grizzlies - FULL GAME HIGHLIGHTS | November 19, 2026 NBA Season",
+      "publishedAt": "2026-11-20T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ZwgBIqGt8U4",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Grizzlies"
+      ],
+      "gameDate": "2026-11-19"
+    },
+    {
+      "videoId": "3s4Y1wvLsqs",
+      "title": "New York Knicks vs Minnesota Timberwolves - FULL GAME HIGHLIGHTS | November 19, 2026 NBA Season",
+      "publishedAt": "2026-11-20T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=3s4Y1wvLsqs",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-19"
+    },
     {
       "videoId": "-BaefWqnu98",
       "title": "NBA's Nightly Recap | November 18, 2026",
