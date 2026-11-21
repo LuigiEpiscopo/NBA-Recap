@@ -1,6 +1,185 @@
 {
-  "generatedAt": "2026-11-20T13:29:09.962747+00:00",
+  "generatedAt": "2026-11-21T12:56:03.266793+00:00",
   "items": [
+    {
+      "videoId": "Al-EioHioAw",
+      "title": "NBA's Nightly Recap | November 20, 2026",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Al-EioHioAw",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "sOU_ksV3b1w",
+      "title": "HORNETS AT HAWKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=sOU_ksV3b1w",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Hornets"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "RenNhH3hB5k",
+      "title": "PACERS AT CAVALIERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=RenNhH3hB5k",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Pacers"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "eyq5jc-fKa8",
+      "title": "MAGIC AT NETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=eyq5jc-fKa8",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nets",
+        "Magic"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "x76Ajg6DA_4",
+      "title": "RAPTORS AT PISTONS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=x76Ajg6DA_4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Raptors"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "NOu53JEXhJs",
+      "title": "WIZARDS AT BULLS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=NOu53JEXhJs",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "NXnXlEQ-FRo",
+      "title": "PELICANS AT THUNDER | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=NXnXlEQ-FRo",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pelicans",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "AR4TUrUkkzo",
+      "title": "SUNS AT JAZZ | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=AR4TUrUkkzo",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Suns",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "UpC7NWUo0Mg",
+      "title": "KINGS AT LAKERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=UpC7NWUo0Mg",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Kings"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "FMHdRbySu54",
+      "title": "ROCKETS AT NUGGETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=FMHdRbySu54",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Rockets"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "9Ox5hAftAKc",
+      "title": "Houston Rockets vs Denver Nuggets - FULL GAME HIGHLIGHTS | November 20, 2026 NBA Cup",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=9Ox5hAftAKc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Nuggets",
+        "Rockets"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "mye7ZxXJbT8",
+      "title": "Sacramento Kings vs Los Angeles Lakers - FULL GAME HIGHLIGHTS | November 20, 2026 NBA Cup",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=mye7ZxXJbT8",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Kings"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "JAxAQ9dUxSY",
+      "title": "New Orleans Pelicans vs Oklahoma City Thunder - FULL GAME HIGHLIGHTS | November 20, 2026 NBA Cup",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=JAxAQ9dUxSY",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Pelicans",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-20"
+    },
+    {
+      "videoId": "_Ve-PgQ3S8w",
+      "title": "Indiana Pacers vs Cleveland Cavaliers - FULL GAME HIGHLIGHTS | November 20, 2026 NBA Cup",
+      "publishedAt": "2026-11-21T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=_Ve-PgQ3S8w",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Pacers"
+      ],
+      "gameDate": "2026-11-20"
+    },
     {
       "videoId": "-UedEoekVC8",
       "title": "NBA's Nightly Recap | November 19, 2026",
