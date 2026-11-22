@@ -1,6 +1,120 @@
 {
-  "generatedAt": "2026-11-21T12:56:03.266793+00:00",
+  "generatedAt": "2026-11-22T12:48:29.844353+00:00",
   "items": [
+    {
+      "videoId": "QIZUemPDDmU",
+      "title": "NBA's Nightly Recap | November 21, 2026",
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=QIZUemPDDmU",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-21"
+    },
+    {
+      "videoId": "Kyw8c2ComZ0",
+      "title": "BUCKS at 76ERS | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Kyw8c2ComZ0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "76ers"
+      ],
+      "gameDate": "2026-11-21"
+    },
+    {
+      "videoId": "fD9ObwrdOHI",
+      "title": "EXTENDED: BUCKS at 76ERS | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=fD9ObwrdOHI",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "76ers"
+      ],
+      "gameDate": "2026-11-21"
+    },
+    {
+      "videoId": "f3lxi8E6P9M",
+      "title": "TRAIL BLAZERS at KNICKS | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=f3lxi8E6P9M",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Knicks",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-21"
+    },
+    {
+      "videoId": "p6sCv2RIrwQ",
+      "title": "GRIZZLIES at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=p6sCv2RIrwQ",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Grizzlies",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-11-21"
+    },
+    {
+      "videoId": "K6rwrBbq2C0",
+      "title": "CLIPPERS at MAVERICKS | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=K6rwrBbq2C0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Clippers"
+      ],
+      "gameDate": "2026-11-21"
+    },
+    {
+      "videoId": "Yj-3KgHgPWM",
+      "title": "PELICANS at SPURS | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Yj-3KgHgPWM",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pelicans",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-21"
+    },
+    {
+      "videoId": "m04w-QZ48rQ",
+      "title": "CELTICS at KINGS | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=m04w-QZ48rQ",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Kings"
+      ],
+      "gameDate": "2026-11-21"
+    },
+    {
+      "videoId": "0HDJj_2c4WQ",
+      "title": "Milwaukee Bucks vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | November 21, 2026 NBA Season",
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=0HDJj_2c4WQ",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "76ers"
+      ],
+      "gameDate": "2026-11-21"
+    },
     {
       "videoId": "Al-EioHioAw",
       "title": "NBA's Nightly Recap | November 20, 2026",
