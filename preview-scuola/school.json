@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "lessons": [
+    {
+      "id": "rodman-rimbalzi",
+      "category": "Rimbalzi",
+      "level": "Base · 10 anni",
+      "title": "L’arte del rimbalzo — Dennis Rodman",
+      "description": "Rodman insegna che il rimbalzo non è solo questione di altezza: osserva, anticipa e conquista la posizione.",
+      "keyPoints": [
+        "Guarda il tiro e prova a capire dove cadrà la palla.",
+        "Cerca una buona posizione prima di saltare, senza spingere.",
+        "Se non prendi il pallone al primo tentativo, preparati subito al secondo salto."
+      ],
+      "videos": [
+        {
+          "videoId": "tJF4IJjqQBE",
+          "title": "Dennis Rodman Rebounds Like a Scientist",
+          "description": "Come Rodman studiava traiettorie e posizionamento.",
+          "languageNote": "Audio italiano non ancora verificato: controlla Traccia audio nelle impostazioni YouTube."
+        },
+        {
+          "videoId": "IRSdvydEmH0",
+          "title": "This Is Why Dennis Rodman Changed Rebounding In The NBA",
+          "description": "Analisi del suo stile e dei suoi movimenti a rimbalzo.",
+          "languageNote": "Audio italiano non ancora verificato: controlla Traccia audio nelle impostazioni YouTube."
+        }
+      ],
+      "exercise": "Con un compagno e un allenatore, osserva 10 tiri: prima di ogni rimbalzo prova a prevedere dove cadrà il pallone. Conta quante volte hai indovinato."
+    }
+  ]
+}
