@@ -1,6 +1,146 @@
 {
-  "generatedAt": "2026-11-22T12:48:29.844353+00:00",
+  "generatedAt": "2026-11-23T15:12:52.289240+00:00",
   "items": [
+    {
+      "videoId": "vm3YVrO_ug4",
+      "title": "NBA's Nightly Recap | November 22, 2026",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=vm3YVrO_ug4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-22"
+    },
+    {
+      "videoId": "wQ8QMIYmWeA",
+      "title": "PISTONS at HAWKS | FULL GAME HIGHLIGHTS | November 22, 2026",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=wQ8QMIYmWeA",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hawks",
+        "Pistons"
+      ],
+      "gameDate": "2026-11-22"
+    },
+    {
+      "videoId": "F8cvs98ZEJ4",
+      "title": "THUNDER at HEAT | FULL GAME HIGHLIGHTS | November 22, 2026",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=F8cvs98ZEJ4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Heat",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-22"
+    },
+    {
+      "videoId": "6LGBQv5bPz8",
+      "title": "MAGIC at WIZARDS | FULL GAME HIGHLIGHTS | November 22, 2026",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=6LGBQv5bPz8",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Magic",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-22"
+    },
+    {
+      "videoId": "HiWq0b23dbk",
+      "title": "MAVERICKS at JAZZ | FULL GAME HIGHLIGHTS | November 22, 2026",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=HiWq0b23dbk",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-22"
+    },
+    {
+      "videoId": "fku0QvOiRm8",
+      "title": "NUGGETS at BULLS | FULL GAME HIGHLIGHTS | November 22, 2026",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=fku0QvOiRm8",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Nuggets"
+      ],
+      "gameDate": "2026-11-22"
+    },
+    {
+      "videoId": "sUFCZ146zk8",
+      "title": "PACERS at KNICKS | FULL GAME HIGHLIGHTS | November 22, 2026",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=sUFCZ146zk8",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pacers",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-22"
+    },
+    {
+      "videoId": "CheW6PwsdoU",
+      "title": "CELTICS at WARRIORS | FULL GAME HIGHLIGHTS | November 22, 2026",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=CheW6PwsdoU",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Warriors"
+      ],
+      "gameDate": "2026-11-22"
+    },
+    {
+      "videoId": "4U2ighM2W8o",
+      "title": "Boston Celtics vs Golden State Warriors - FULL GAME HIGHLIGHTS | November 22, 2026 NBA Season",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=4U2ighM2W8o",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Warriors"
+      ],
+      "gameDate": "2026-11-22"
+    },
+    {
+      "videoId": "EM5NBRco8W4",
+      "title": "Dallas Mavericks vs Utah Jazz - FULL GAME HIGHLIGHTS | November 22, 2026 NBA Season",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=EM5NBRco8W4",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-22"
+    },
+    {
+      "videoId": "FsfF6iHMsZo",
+      "title": "Oklahoma City Thunder vs Miami Heat - FULL GAME HIGHLIGHTS | November 22, 2026 NBA Season",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=FsfF6iHMsZo",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Heat",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-22"
+    },
     {
       "videoId": "QIZUemPDDmU",
       "title": "NBA's Nightly Recap | November 21, 2026",
