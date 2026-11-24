@@ -1,6 +1,158 @@
 {
-  "generatedAt": "2026-11-23T15:12:52.289240+00:00",
+  "generatedAt": "2026-11-24T15:10:43.082552+00:00",
   "items": [
+    {
+      "videoId": "WVxW1iScWKg",
+      "title": "NBA's Nightly Recap | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=WVxW1iScWKg",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "pBPOSWsVZU0",
+      "title": "TRAIL BLAZERS at 76ERS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=pBPOSWsVZU0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "76ers",
+        "Trail Blazers"
+      ],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "gVFIS7Qn7Ig",
+      "title": "GRIZZLIES at HORNETS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=gVFIS7Qn7Ig",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hornets",
+        "Grizzlies"
+      ],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "vGau3yaLQ7s",
+      "title": "NETS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=vGau3yaLQ7s",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nets",
+        "Timberwolves"
+      ],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "PHx8pJV7Qss",
+      "title": "THUNDER at PACERS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=PHx8pJV7Qss",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pacers",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "R2MWX8N1HO4",
+      "title": "BUCKS at RAPTORS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=R2MWX8N1HO4",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bucks",
+        "Raptors"
+      ],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "fPuiys2IFmk",
+      "title": "CAVALIERS at BULLS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=fPuiys2IFmk",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Bulls",
+        "Cavaliers"
+      ],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "FsGwcxZGHCc",
+      "title": "SUNS at PELCIANS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=FsGwcxZGHCc",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Suns"
+      ],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "qt_mU2YySHk",
+      "title": "CLIPPERS at ROCKETS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=qt_mU2YySHk",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Clippers"
+      ],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "UXfAWMZHGtc",
+      "title": "SPURS at KINGS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=UXfAWMZHGtc",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Kings",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "Matd7OC5wW8",
+      "title": "EXTENDED: CLIPPERS at ROCKETS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Matd7OC5wW8",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Clippers"
+      ],
+      "gameDate": "2026-11-23"
+    },
+    {
+      "videoId": "Iqsnel9aWHg",
+      "title": "JAZZ at LAKERS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Iqsnel9aWHg",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Lakers",
+        "Jazz"
+      ],
+      "gameDate": "2026-11-23"
+    },
     {
       "videoId": "vm3YVrO_ug4",
       "title": "NBA's Nightly Recap | November 22, 2026",
