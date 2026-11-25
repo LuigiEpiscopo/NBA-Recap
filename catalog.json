@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-11-24T15:10:43.082552+00:00",
+  "generatedAt": "2026-11-25T14:50:40.852214+00:00",
   "items": [
+    {
+      "videoId": "fSyi8WmaoY0",
+      "title": "NBA's Nightly Recap | November 24, 2026",
+      "publishedAt": "2026-11-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=fSyi8WmaoY0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-24"
+    },
+    {
+      "videoId": "K4gN0RJ1Ghs",
+      "title": "PISTONS at MAGIC | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 24, 2026",
+      "publishedAt": "2026-11-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=K4gN0RJ1Ghs",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Pistons",
+        "Magic"
+      ],
+      "gameDate": "2026-11-24"
+    },
+    {
+      "videoId": "KTqVQ0JHdwk",
+      "title": "CELTICS at WIZARDS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 24, 2026",
+      "publishedAt": "2026-11-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=KTqVQ0JHdwk",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-24"
+    },
+    {
+      "videoId": "ZV_1v8zzUbw",
+      "title": "MAVERICKS at NUGGETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 24, 2026",
+      "publishedAt": "2026-11-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ZV_1v8zzUbw",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Nuggets"
+      ],
+      "gameDate": "2026-11-24"
+    },
+    {
+      "videoId": "Cv92zqJxO1k",
+      "title": "EXTENDED: CELTICS at WIZARDS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 24, 2026",
+      "publishedAt": "2026-11-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=Cv92zqJxO1k",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-24"
+    },
+    {
+      "videoId": "8lm1EBsy6Cc",
+      "title": "Dallas Mavericks vs Denver Nuggets - FULL GAME HIGHLIGHTS | November 24, 2026 NBA Cup",
+      "publishedAt": "2026-11-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=8lm1EBsy6Cc",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Mavericks",
+        "Nuggets"
+      ],
+      "gameDate": "2026-11-24"
+    },
+    {
+      "videoId": "jUv6wn0mBc4",
+      "title": "Boston Celtics vs Washington Wizards - FULL GAME HIGHLIGHTS | November 24, 2026 NBA Cup",
+      "publishedAt": "2026-11-25T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=jUv6wn0mBc4",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Celtics",
+        "Wizards"
+      ],
+      "gameDate": "2026-11-24"
+    },
     {
       "videoId": "WVxW1iScWKg",
       "title": "NBA's Nightly Recap | November 23, 2026",
