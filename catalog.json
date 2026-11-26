@@ -1,6 +1,198 @@
 {
-  "generatedAt": "2026-11-25T14:50:40.852214+00:00",
+  "generatedAt": "2026-11-26T14:16:30.208617+00:00",
   "items": [
+    {
+      "videoId": "SEhz3l_hehc",
+      "title": "NBA's Nightly Recap | November 25, 2026",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=SEhz3l_hehc",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "nightly_recap",
+      "teams": [],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "ZrlEGz6KlW0",
+      "title": "HEAT at 76ERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ZrlEGz6KlW0",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Heat",
+        "76ers"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "7W5dg0c7C3A",
+      "title": "BULLS at HORNETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=7W5dg0c7C3A",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Hornets",
+        "Bulls"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "ijXNLi63Xxw",
+      "title": "CAVALIERS at KNICKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=ijXNLi63Xxw",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Cavaliers",
+        "Knicks"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "vWLULGo65pw",
+      "title": "TIMBERWOLVES at THUNDER | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=vWLULGo65pw",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "kz3nvPo8EjQ",
+      "title": "NETS at BUCKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=kz3nvPo8EjQ",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Nets",
+        "Bucks"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "gN2-ZSIz7ck",
+      "title": "CLIPPERS at GRIZZLIES | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=gN2-ZSIz7ck",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Clippers",
+        "Grizzlies"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "d1ml5nG4h0M",
+      "title": "SUNS at ROCKETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=d1ml5nG4h0M",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Suns"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "0vg4rEM49HY",
+      "title": "KINGS at WARRIORS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=0vg4rEM49HY",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Kings"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "pGbbg2LRLlE",
+      "title": "SPURS at TRAIL BLAZERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=pGbbg2LRLlE",
+      "source": "NBA (YouTube ufficiale)",
+      "contentType": "game_recap",
+      "teams": [
+        "Trail Blazers",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "JlsGLVOuHGw",
+      "title": "San Antonio Spurs vs Portland Trail Blazers - FULL GAME HIGHLIGHTS | November 25, 2026 NBA Cup",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=JlsGLVOuHGw",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Trail Blazers",
+        "Spurs"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "-lz8l4VMx2A",
+      "title": "Sacramento Kings vs Golden State Warriors - FULL GAME HIGHLIGHTS | November 25, 2026 NBA Cup",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=-lz8l4VMx2A",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Warriors",
+        "Kings"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "s4yo7Ir7jFM",
+      "title": "Phoenix Suns vs Houston Rockets - FULL GAME HIGHLIGHTS | November 25, 2026 NBA Cup",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=s4yo7Ir7jFM",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Rockets",
+        "Suns"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "eYOTH62WSyo",
+      "title": "Minnesota Timberwolves vs Oklahoma City Thunder - FULL GAME HIGHLIGHTS | November 25, 2026 NBA Cup",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=eYOTH62WSyo",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Timberwolves",
+        "Thunder"
+      ],
+      "gameDate": "2026-11-25"
+    },
+    {
+      "videoId": "GhOW2ulJn2I",
+      "title": "Miami Heat vs Philadelphia 76ers - FULL GAME HIGHLIGHTS | November 25, 2026 NBA Cup",
+      "publishedAt": "2026-11-26T08:00:00+00:00",
+      "videoUrl": "https://www.youtube.com/watch?v=GhOW2ulJn2I",
+      "source": "Ximo Pierto",
+      "contentType": "game_recap",
+      "teams": [
+        "Heat",
+        "76ers"
+      ],
+      "gameDate": "2026-11-25"
+    },
     {
       "videoId": "fSyi8WmaoY0",
       "title": "NBA's Nightly Recap | November 24, 2026",
